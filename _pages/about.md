@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an invited assistant professor at University of Minho and a senior researcher at [HASLab](https://www.inesctec.pt/en/centres/haslab), one of the research units of INESC TEC and University of Minho.
+I am currently an invited assistant professor at University of Minho and a senior researcher at [HASLab](https://www.inesctec.pt/en/centres/haslab), one of the research units of INESC TEC and University of Minho.
 
 My current research topics include:
 

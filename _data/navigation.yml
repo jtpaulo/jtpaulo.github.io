@@ -1,22 +1,23 @@
 # main links links
 main:
+
+  - title: "Bio"
+    url: /cv/
+
+  - title: "Teaching and Supervision"
+    url: /teaching/  
+
+  #- title: "Talks"
+  #  url: /talks/    
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects and Software"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+     
+  #- title: "Guide"
+  #  url: /markdown/

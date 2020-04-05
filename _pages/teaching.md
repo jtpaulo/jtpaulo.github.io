@@ -34,33 +34,33 @@ author_profile: true
 
 ### Concluded:
 
-**2019** - Hugo Carvalho. "Processamento Analítico de Dados Seguro". Co-advised with Rui Oliveira and Rogério Pontes
+**2019** - Hugo Carvalho. Processamento Analítico de Dados Seguro (Secure Analytical Data Processing), 2019, U. Minho. Co-advised with Rui Oliveira and Rogério Pontes
 
-**2018** - Tânia Esteves. "Sistemas de Armazenamento configuráveis e seguros". Co-advised with José Pereira.
+**2018** - Tânia Esteves. Sistemas de Armazenamento Configuráveis e Seguros (Configurable and Secure Storage Systems), 2018, U. Minho. Co-advised with José Pereira.
 
-**2018** - Paulo Araújo. "Data Analytics in IoT. FaaS with DataFlasks". Co-advised with José Pereira.
+**2018** - Paulo Araújo. Data Analytics in IoT. FaaS with DataFlasks", 2018, U. Minho. Co-advised with José Pereira.
 
-**2018** - Daniel Cruz. "Processamento Analítico seguro". Co-advised with Rui Oliveira.
+**2018** - Daniel Cruz. SafeAnalytics: Plataforma para Processamento Analítico Seguro de Dados (SafeAnalytics: A Secure Platform for Data Analytics), 2018, U. Minho. Co-advised with Rui Oliveira.
 
-**2017** - Ricardo Macedo. "Computação Segura em Bases de Dados NoSQL" (2017, U. Minho). Co-advised with Rui Oliveira. Concluded with U. Minho's highest grade (20 values out of 20).
+**2017** - Ricardo Macedo. Computação Segura em Bases de Dados NoSQL (Secure Computation in NoSQL Databases), 2017, U. Minho. Co-advised with Rui Oliveira. Concluded with U. Minho's highest grade (20 values out of 20).
 
-**2015** - André Costa. “Gestão de Bases de Dados Relacionais em Cloud Computing” (2015, U. Minho) Co-advised with Rui Oliveira. 
+**2015** - André Costa. Gestão de Bases de Dados Relacionais em Cloud Computing (Relational Database Management in Cloud Computing), 2015, U. Minho, Co-advised with Rui Oliveira. 
 
 ### Ongoing:
 
-**2019** - Cláudia Correia. “Sistema de Armazenamento para Plataformas de Deep Learning”. Co-advised with Ricardo Macedo
+**2019** - Cláudia Correia. Sistema de Armazenamento para Plataformas de Deep Learning (Storage Systems for Deep Learning Platforms). Co-advised with Ricardo Macedo
 
-**2019** - Mariana Miranda. “SafeDedup – Sistema de  Deduplicação Seguro”. Co-advised with Bernardo Portela and Tânia Esteves
+**2019** - Mariana Miranda. SafeDedup – Sistema de Deduplicação Seguro (SafeDedup - Secure Deduplication System). Co-advised with Bernardo Portela and Tânia Esteves
 
-**2019** - Daniel Fernandes. “Sistema Modular e Escalável para Armazenamento de Grandes Quantidadades de Dados". Co-advised with Francisco Maia
+**2019** - Daniel Fernandes. Sistema Modular e Escalável para Armazenamento de Grandes Quantidades de Dados (Modular and Scalable Storage System for Large-Scale Data). Co-advised with Francisco Maia
 
-**2019** - Diogo Leitão. “Sistema Modular para Armazenamento Distribuído”. Co-advised with Ricardo Macedo
+**2019** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo
 
-**2019** - Carlos Pedrosa. “Sistema de Deduplicação Reconfigurável”. Co-advised with José Pereira
+**2019** - Carlos Pedrosa. Sistema de Deduplicação Reconfigurável (Reconfigurable Deduplication System). Co-advised with José Pereira
 
-**2018** - Catarina Cardoso. "Distributed Black-Box Data Tracing". Co-advised with José Pereira and Francisco Neves.
+**2018** - Catarina Cardoso. Distributed Black-Box Data Tracing. Co-advised with José Pereira and Francisco Neves.
 
-**2018** - Alexandre Silva. "Avaliação realista de Sistemas de Armazenamento". Co-advised with José Pereira
+**2018** - Alexandre Silva. Avaliação Realista de Sistemas de Armazenamento (Realistic Evaluation of Storage Systems). Co-advised with José Pereira
 
 
 # Other Supervision Activities

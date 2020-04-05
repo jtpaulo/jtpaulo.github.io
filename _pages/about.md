@@ -12,7 +12,7 @@ I am currently an invited assistant professor at University of Minho and a senio
 
 My current research topics include:
 
-**Reliable Distributed Storage Systems**: My current research work focuses on software-defined storage architectures and very-large scale storage systems. As some examples, I am interested in storage deduplication, stackable filesystems, and storage security. I am also interested in improving the performance of current storage solutions for HPC and AI workloads.
+**Reliable Distributed Storage Systems**: My current research work is focused on software-defined storage architectures and large scale storage systems. As some examples, I am interested in storage deduplication, stackable filesystems, and storage security. I am also interested in improving the performance of current storage solutions for HPC and AI workloads.
 
 **Benchmarking and Monitoring Storage Systems**: Another research interest is on building proper benchmarking tools for monitoring and evaluating storage systems accurately.
 

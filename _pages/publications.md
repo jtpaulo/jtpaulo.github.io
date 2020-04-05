@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2020
+
+Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys (accepted/to appear).
+
 ### 2019
 
 Macedo R, Faria A, Paulo J, Pereira J. A Case for Dynamically Programmable Storage Background Tasks. Workshop on Distributed and Reliable Storage Systems (DRSS).

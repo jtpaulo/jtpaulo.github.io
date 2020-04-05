@@ -9,7 +9,7 @@ author_profile: true
 
 # Teaching
 
-**2019/2020** - Invited Auxiliar Professor at University of Minho. Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho) and the distributed systems practical class (third year of the MIEI course in Informatics Engineering, U. Minho). 
+**2019/2020** - Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho), the distributed systems practical class (third year of the MIEI course in Informatics Engineering, U. Minho), the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho) and the concurrent programming practical class (third year of the LCC course in Computer Science, U. Minho).
 
 **2018/2019** - Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho) and operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
 

@@ -9,9 +9,13 @@ author_profile: true
 
 # Projects
 
-### [Privacy-preserving Cloud Computing for IoT](http://www.globalcentra.org)
+### [A Management Framework for Consolidated Big Data and HPC](http://bighpc.inesctec.pt)
 
-**2018-Current**: The main goal of the Privacy-preserving Cloud Computing for IoT CENTRA project is to devise new storage and processing solutions that ensure the privacy of sensitive information for applications using both Cloud and IoT environments. I am currently the coordinator of this project, which is being done in collaboration with the KISTI and AIST research centers (South Korea and Japan). 
+**2020-Current**: The BigHPC() project will provide a novel management framework, for Big Data and parallel computing workloads, that can be seamlessly integrated with existing HPC infrastructures and software stacks. The project will research, develop and integrate new monitoring, virtualization, and storage management components that can cope with the infrastructural scale and heterogeneity, as well as, the different workload requirements, while ensuring the best performance and resource usage for both applications and infrastructures. I am the coordinator of INESC TEC's activities in the project. The project includes the following partners: Wavecom (coordinator), INESC TEC, LIP, MACC, TACC, UT Austin
+
+### [Efficient and Secure Data Management for HPC and Cloud Computing](http://www.globalcentra.org/projects/#prv)
+
+**2018-Current**: The "Efficient and Secure Data Management for HPC and Cloud Computing" project aims at researching novel data management solutions for Cloud and HPC distributed environments. These solutions must be efficient, secure, and practical by: 1) alleviating any storage or processing performance bottlenecks identified for data-centric applications deployed on HPC and Cloud services; 2) following a privacy-by-design approach when storing and processing sensitive data on third-party infrastructures; and 3) re-using stable and industry-adopted storage systems, databases and analytical platforms. I am currently the coordinator of this project, which is being done in collaboration with the KISTI and AIST research centers (South Korea and Japan). It also includes external collaborations with researchers from TACC and UT Austin.
 
 ### [IBM Research Haifa Joint Study Agreement]()
 

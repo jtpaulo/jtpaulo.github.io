@@ -9,6 +9,8 @@ author_profile: true
 
 Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys (accepted/to appear).
 
+Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R. On the trade-offs of combining multiple secureprocessing primitives for data analytics. Distributed Applications and Interoperable Systems International Conference (accepted/to appear).
+
 ### 2019
 
 Macedo R, Faria A, Paulo J, Pereira J. A Case for Dynamically Programmable Storage Background Tasks. Workshop on Distributed and Reliable Storage Systems (DRSS).
@@ -30,7 +32,7 @@ Coelho F., Paulo J., Vilaça R., Pereira J., Oliveira R: HTAPBench: Hybrid Trans
 
 ### 2016
 
-Paulo, J., Pereira, J.: Efficient Deduplication in a Distributed Primary Storage Infrastructure. ACM Transactions on Storage, 12(4):1–35 - Q2 in Scimago.
+Paulo, J., Pereira, J.: Efficient Deduplication in a Distributed Primary Storage Infrastructure. ACM Transactions on Storage, 12(4):1–35 - Q1 in Scimago.
 
 Burihabwa, D., Pontes, R., Felber, P., Maia, F., Mercier, H., Oliveira, R., Paulo, J., Schiavoni, V.: On the Cost of Safe Storage for Public Clouds: an Experimental Evaluation. In Proceedings of the Symposium on Reliable Distributed Systems (SRDS) - Core rank A.
 

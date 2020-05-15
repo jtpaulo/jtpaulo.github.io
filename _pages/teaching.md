@@ -34,7 +34,8 @@ author_profile: true
 
 ### Concluded:
 
-**2019** - Hugo Carvalho. Processamento Analítico de Dados Seguro (Secure Analytical Data Processing), 2019, U. Minho. Co-advised with Rui Oliveira and Rogério Pontes
+**2019** - Hugo Carvalho. SafeSpark: A Secure Data Analytics Platform
+using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised with Rui Oliveira and Rogério Pontes.
 
 **2018** - Tânia Esteves. Sistemas de Armazenamento Configuráveis e Seguros (Configurable and Secure Storage Systems), 2018, U. Minho. Co-advised with José Pereira.
 

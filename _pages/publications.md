@@ -7,9 +7,9 @@ author_profile: true
 
 ### 2020
 
-Cogo V, Paulo J, Bessani, A. GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data. IEEE Transactions on Computers (accepted/to appear).
+Cogo V, Paulo J, Bessani, A. GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data. IEEE Transactions on Computers (accepted/to appear) - Q1 in Scimago.
 
-Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys (accepted/to appear).
+Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys (accepted/to appear) - Q1 in Scimago.
 
 Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R. On the trade-offs of combining multiple secureprocessing primitives for data analytics. Distributed Applications and Interoperable Systems International Conference (accepted/to appear).
 
@@ -48,13 +48,13 @@ Paulo, J.: Dependable Decentralized Storage Management for Cloud Computing. PhD 
 
 ### 2014
 
-Paulo, J., Pereira, J.: A Survey and Classification of Storage Deduplication Systems. ACM Computing Surveys, 47(1):1–30 - Q1 in Scimago
+Paulo, J., Pereira, J.: A Survey and Classification of Storage Deduplication Systems. ACM Computing Surveys, 47(1):1–30 - Q1 in Scimago.
 
 Paulo, J., Pereira, J.: Distributed Exact Deduplication for Primary Storage Infrastructures. Distributed Applications and Interoperable Systems International Conference (DAIS).
 
 ### 2013
 
-Cruz, F., Maia, F., Matos, M., Oliveira, R., Paulo, J., Pereira, J., Vilaça, R.: MET: Workload aware elasticity for NoSQL. European Conference on Computer Systems (EuroSys) - Core rank A
+Cruz, F., Maia, F., Matos, M., Oliveira, R., Paulo, J., Pereira, J., Vilaça, R.: MET: Workload aware elasticity for NoSQL. European Conference on Computer Systems (EuroSys) - Core rank A.
 
 Paulo, J., Pereira, J.: DEDIS: Distributed Exact Deduplication for Primary Storage Infrastructures. Poster. Proceedings of the Symposium on Cloud Computing (SOCC).
 

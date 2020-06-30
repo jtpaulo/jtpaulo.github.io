@@ -7,11 +7,11 @@ author_profile: true
 
 ### 2020
 
-Cogo V, Paulo J, Bessani, A. GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data. IEEE Transactions on Computers (accepted/to appear) - Q1 in Scimago.
+Cogo V, Paulo J, Bessani, A. GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data. IEEE Transactions on Computers - Q1 in Scimago.
 
-Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys (accepted/to appear) - Q1 in Scimago.
+Macedo R, Paulo J, Pereira J, Bessani, A. A Survey and Classification of Software-Defined Storage Systems. ACM Computing Surveys - Q1 in Scimago.
 
-Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R. On the trade-offs of combining multiple secureprocessing primitives for data analytics. Distributed Applications and Interoperable Systems International Conference (accepted/to appear).
+Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R. On the trade-offs of combining multiple secureprocessing primitives for data analytics. Distributed Applications and Interoperable Systems International Conference.
 
 ### 2019
 

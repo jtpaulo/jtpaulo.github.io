@@ -49,6 +49,8 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 ### Ongoing:
 
+**2019** - David Ferreira. Automatic Configuration of Secure Databases. Co-advised with Miguel Matos
+
 **2019** - Cláudia Correia. Sistema de Armazenamento para Plataformas de Deep Learning (Storage Systems for Deep Learning Platforms). Co-advised with Ricardo Macedo
 
 **2019** - Mariana Miranda. SafeDedup – Sistema de Deduplicação Seguro (SafeDedup - Secure Deduplication System). Co-advised with Bernardo Portela and Tânia Esteves

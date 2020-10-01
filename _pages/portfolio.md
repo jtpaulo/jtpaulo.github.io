@@ -9,9 +9,13 @@ author_profile: true
 
 # Projects
 
-### [BigHPC: A Management Framework for Consolidated Big Data and HPC (POCI-01-0247-FEDER-045924)](http://bighpc.inesctec.pt)
+### [BigHPC: A Management Framework for Consolidated Big Data and HPC (POCI-01-0247-FEDER-045924)]()
 
 **2020-Current**: The BigHPC  project will provide a novel management framework, for Big Data and parallel computing workloads, that can be seamlessly integrated with existing HPC infrastructures and software stacks. The project will research, develop and integrate new monitoring, virtualization, and storage management components that can cope with the infrastructural scale and heterogeneity, as well as, the different workload requirements, while ensuring the best performance and resource usage for both applications and infrastructures. I am the coordinator of INESC TEC's activities in the project. The project includes the following partners: Wavecom (coordinator), INESC TEC, LIP, MACC, TACC, UT Austin
+
+### [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (PT-UTAustin Exploratory Project)](http://bighpc.inesctec.pt)
+
+**2020-Current**: The PAstor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to meet applications dynamic requirements. The project will provide the first building blocks towards a novel storage architecture tailored for AI applications deployed at exascale computing infrastructures. I am one of the coordinators of the project. The project includes the following partners: INESC TEC (coordinator), TACC (coordinator)MACC, Hood College
 
 ### [Efficient and Secure Data Management for HPC and Cloud Computing (CENTRA project)](http://www.globalcentra.org/projects/#prv)
 
@@ -19,7 +23,7 @@ author_profile: true
 
 ### [IBM Research Haifa Joint Study Agreement]()
 
-**2018-Current**: IBM Research Haifa and INESC TEC participate in a joint study in which the parties will do research on novel benchmarking solutions for storage systems with deduplication and compression capabilities, and on novel secure and privacy-preserving storage paradigms. I am currently the coordinator of this project on behalf of HASLab.
+**2018-2020**: IBM Research Haifa and INESC TEC participate in a joint study in which the parties will do research on novel benchmarking solutions for storage systems with deduplication and compression capabilities, and on novel secure and privacy-preserving storage paradigms. I am currently the coordinator of this project on behalf of HASLab.
 
 ### [SafeCloud (H2020-DS-2014-1/653884)](http://www.safecloud-project.eu/)
 

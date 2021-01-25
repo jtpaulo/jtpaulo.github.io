@@ -9,11 +9,13 @@ author_profile: true
 
 # Teaching
 
-**2019/2020** - Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho), the distributed systems practical class (third year of the MIEI course in Informatics Engineering, U. Minho), the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho) and the concurrent programming practical class (third year of the LCC course in Computer Science, U. Minho).
+**2020/2021** - Lecturer of the system benchmarking & deployment class (responsible), the data center administration practical class (fourth year of the MIEI course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
 
-**2018/2019** - Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho) and operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
+**2019/2020** - Lecturer of the system benchmarking & deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho), the distributed systems practical class (third year of the MIEI course in Informatics Engineering, U. Minho), the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho) and the concurrent programming practical class (third year of the LCC course in Computer Science, U. Minho).
 
-**2017/2018** -  Lecturer of the System Benchmarking and Deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho).
+**2018/2019** - Lecturer of the system benchmarking & deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho) and operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
+
+**2017/2018** -  Lecturer of the system benchmarking & deployment class (fourth year of the MIEI course in Informatics Engineering, U. Minho).
 
 **2016/2017** -  Invited Professor at University of Minho (25% contract). Lecturer of the database administration and data center administration classes (fourth year of the MIEI course in Informatics Engineering, U. Minho), and informatics laboratories (second year of the MIEI course in Informatics Engineering, U. Minho).
 
@@ -24,6 +26,8 @@ author_profile: true
 
 ### Ongoing:
 
+**2020** - Mariana Miranda. 
+
 **2018** - Tânia Araújo. End-to-End Software-Defined Security for Big Data Ecosystems. Co-advised with Rui Oliveira.
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
@@ -32,7 +36,33 @@ author_profile: true
 
 # MSc Thesis Supervision
 
+### Ongoing:
+
+**2020** - Alberto Faria.
+
+**2020** - Marco Dantas. Optimized storage system for Deep Learning services on HPC. Co-advised with Rui Oliveira.
+
+**2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
+
+**2020** - João Vilaça. Orchestration and Distribution of Servicesin Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
+
+**2019** - Cláudia Correia. Sistema de Armazenamento para Plataformas de Deep Learning (Storage Systems for Deep Learning Platforms). Co-advised with Ricardo Macedo.
+
+**2019** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo.
+
+**2019** - Carlos Pedrosa. Sistema de Deduplicação Reconfigurável (Reconfigurable Deduplication System). Co-advised with José Pereira.
+
+
 ### Concluded:
+
+**2021** - Daniel Fernandes. LSFS: Sistema de ficheiros tolerante a faltas
+para armazenamento em larga escala (LSFS: Large-scale fault-tolerant file system), 2020, U. Minho. Co-advised with Francisco Maia and Rui Oliveira
+
+**2020** - Mariana Miranda. S2Dedup: SGX-enabled Secure Deduplication System, 2020, U. Minho. Co-advised with Bernardo Portela and Rui Oliveira
+
+**2020** - David Ferreira. Automatic Configuration of Secure Databases, 2020, U. Lisboa. Co-advised with Miguel Matos
+
+**2020** - Alexandre Silva. Avaliação Realista de Sistemas de Armazenamento (Realistic Evaluation of Storage Systems), 2020, U. Minho. Co-advised with José Pereira
 
 **2019** - Hugo Carvalho. SafeSpark: A Secure Data Analytics Platform
 using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised with Rui Oliveira and Rogério Pontes.
@@ -47,28 +77,14 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 **2015** - André Costa. Gestão de Bases de Dados Relacionais em Cloud Computing (Relational Database Management in Cloud Computing), 2015, U. Minho, Co-advised with Rui Oliveira. 
 
-### Ongoing:
-
-**2019** - David Ferreira. Automatic Configuration of Secure Databases. Co-advised with Miguel Matos
-
-**2019** - Cláudia Correia. Sistema de Armazenamento para Plataformas de Deep Learning (Storage Systems for Deep Learning Platforms). Co-advised with Ricardo Macedo
-
-**2019** - Mariana Miranda. SafeDedup – Sistema de Deduplicação Seguro (SafeDedup - Secure Deduplication System). Co-advised with Bernardo Portela and Tânia Esteves
-
-**2019** - Daniel Fernandes. Sistema Modular e Escalável para Armazenamento de Grandes Quantidades de Dados (Modular and Scalable Storage System for Large-Scale Data). Co-advised with Francisco Maia
-
-**2019** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo
-
-**2019** - Carlos Pedrosa. Sistema de Deduplicação Reconfigurável (Reconfigurable Deduplication System). Co-advised with José Pereira
-
-**2018** - Catarina Cardoso. Distributed Black-Box Data Tracing. Co-advised with José Pereira and Francisco Neves.
-
-**2018** - Alexandre Silva. Avaliação Realista de Sistemas de Armazenamento (Realistic Evaluation of Storage Systems). Co-advised with José Pereira
-
 
 # Other Supervision Activities
 
-### Concluded:
+**2017 - 2020** - Alberto Faria (1st year MSc student). Worked on the SafeFS project.
+
+**2017 - 2020** - Daniel Cruz (Research Assistant). Worked on secure databases. 
+
+**2020** - Leen Aymach and Zeynep Akant. (Erasmus internship). Worked on the containers topic.
 
 **2019** - Leen Aymach and Omer Yardim. (Erasmus internship). Worked on the SafeFS project.
 
@@ -79,8 +95,3 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 **2017** - Marcos Andrade (BsC student). Worked on the SafeCloud project.
 
 
-### Ongoing:
-
-**2017** - Alberto Faria (1st year MSc student). Working on the SafeFS project.
-
-**2017** - Daniel Cruz (Research Assistant). Working on secure databases. 

@@ -46,14 +46,17 @@ author_profile: true
 
 **2020** - João Vilaça. Orchestration and Distribution of Servicesin Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
-**2019** - Cláudia Correia. Sistema de Armazenamento para Plataformas de Deep Learning (Storage Systems for Deep Learning Platforms). Co-advised with Ricardo Macedo.
 
-**2019** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo.
-
-**2019** - Carlos Pedrosa. Sistema de Deduplicação Reconfigurável (Reconfigurable Deduplication System). Co-advised with José Pereira.
 
 
 ### Concluded:
+
+
+**2021** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo.
+
+**2021** - Carlos Pedrosa. HIODS: Hybrid Inline and Offline Deduplication System. Co-advised with José Pereira.
+
+**2021** - Cláudia Correia. PRISMA: A Prefetching Storage Middleware for Accelerating Deep Learning Frameworks. Co-advised with Ricardo Macedo.
 
 **2021** - Daniel Fernandes. LSFS: Sistema de ficheiros tolerante a faltas
 para armazenamento em larga escala (LSFS: Large-scale fault-tolerant file system), 2020, U. Minho. Co-advised with Francisco Maia and Rui Oliveira
@@ -84,7 +87,7 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 **2017 - 2020** - Daniel Cruz (Research Assistant). Worked on secure databases. 
 
-**2020** - Leen Aymach and Zeynep Akant. (Erasmus internship). Worked on the containers topic.
+**2020** - Emre Bener and Zeynep Akant. (Erasmus internship). Worked on the containers topic.
 
 **2019** - Leen Aymach and Omer Yardim. (Erasmus internship). Worked on the SafeFS project.
 

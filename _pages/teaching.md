@@ -26,7 +26,7 @@ author_profile: true
 
 ### Ongoing:
 
-**2020** - Mariana Miranda. 
+**2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
 **2018** - Tânia Araújo. End-to-End Software-Defined Security for Big Data Ecosystems. Co-advised with Rui Oliveira.
 
@@ -38,13 +38,13 @@ author_profile: true
 
 ### Ongoing:
 
-**2020** - Alberto Faria.
+**2020** - Alberto Faria. Software-Defined Storage Control for Containerized HPC Applications. Co-advised with António Sousa and Ricardo Macedo.
 
-**2020** - Marco Dantas. Optimized storage system for Deep Learning services on HPC. Co-advised with Rui Oliveira.
+**2020** - Marco Dantas. Optimized storage system for Deep Learning services on HPC. Co-advised with Rui Oliveira and Ricardo Macedo.
 
 **2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
 
-**2020** - João Vilaça. Orchestration and Distribution of Servicesin Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
+**2020** - Orchestration and Distribution of Services in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
 
 

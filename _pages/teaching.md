@@ -52,7 +52,7 @@ author_profile: true
 ### Concluded:
 
 
-**2021** - Diogo Leitão. Sistema Modular para Armazenamento Distribuído (Modular Distributed Storage System). Co-advised with Ricardo Macedo.
+**2021** - Diogo Leitão. RSafeFS: Sistema de Ficheiros Modular para Armazenamento Remoto (RSafeFS: Modular File System for Remote Storage). Co-advised with Ricardo Macedo.
 
 **2021** - Carlos Pedrosa. HIODS: Hybrid Inline and Offline Deduplication System. Co-advised with José Pereira.
 

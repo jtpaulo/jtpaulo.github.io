@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2021
+
+Faria A, Macedo R, Pereira J, Paulo J. BDUS: Implementing Block Devices in User Space. ACM International Systems and Storage Conference (SYSTOR)
+
+Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR)
+
 ### 2020
 
 Cogo V, Paulo J, Bessani, A. GenoDedup: Similarity-Based Deduplication and Delta-Encoding for Genome Sequencing Data. IEEE Transactions on Computers - Q1 in Scimago.

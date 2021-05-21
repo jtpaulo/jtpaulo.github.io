@@ -47,16 +47,14 @@ author_profile: true
 **2020** - Orchestration and Distribution of Services in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
 
-
-
 ### Concluded:
 
 
-**2021** - Diogo Leitão. RSafeFS: Sistema de Ficheiros Modular para Armazenamento Remoto (RSafeFS: Modular File System for Remote Storage). Co-advised with Ricardo Macedo.
+**2021** - Diogo Leitão. RSafeFS: Sistema de Ficheiros Modular para Armazenamento Remoto (RSafeFS: Modular File System for Remote Storage). Co-advised with Ricardo Macedo and José Pereira.
 
 **2021** - Carlos Pedrosa. HIODS: Hybrid Inline and Offline Deduplication System. Co-advised with José Pereira.
 
-**2021** - Cláudia Correia. PRISMA: A Prefetching Storage Middleware for Accelerating Deep Learning Frameworks. Co-advised with Ricardo Macedo.
+**2021** - Cláudia Correia. PRISMA: A Prefetching Storage Middleware for Accelerating Deep Learning Frameworks. Co-advised with Ricardo Macedo and António Sousa.
 
 **2021** - Daniel Fernandes. LSFS: Sistema de ficheiros tolerante a faltas
 para armazenamento em larga escala (LSFS: Large-scale fault-tolerant file system), 2020, U. Minho. Co-advised with Francisco Maia and Rui Oliveira

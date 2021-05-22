@@ -44,6 +44,15 @@ author_profile: true
 
 # Software
 
+### [BDUS](https://github.com/albertofaria/bdus)
+
+BDUS is a Linux 4.0+ framework for developing block devices in user space. More specifically, it enables users to implement block device drivers as regular user-space programs written in C.
+
+
+### [S2Dedup](https://github.com/mmm97/S2Dedup)
+
+S2Dedup is a trusted hardware-based privacy-preserving deduplication system designed to support multiple security schemes that enable different levels of performance, security guarantees and space savings. Such feature is key to ensure S2Dedup’s applicability to a wider range of applications with different requirements. The proposed solution leverages Intel Software Guard Extensions to enable cross-user privacy-preserving deduplication at third-party storage infrastructures.
+
 
 ### [SafeFS](https://github.com/safecloud-project/safefs)
 

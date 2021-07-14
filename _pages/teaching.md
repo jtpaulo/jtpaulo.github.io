@@ -44,7 +44,7 @@ author_profile: true
 
 **2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
 
-**2020** - Orchestration and Distribution of Services in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
+**2020** - João Vilaça. Orchestration and Distribution of Services in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
 
 ### Concluded:

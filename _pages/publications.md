@@ -7,6 +7,15 @@ author_profile: true
 
 ### 2021
 
+Macedo R, Correia C, Dantas M, Brito C, Xu W, Tanimura Y, Haga J, Paulo J. The Case for Storage Optimization Decoupling in Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO).
+
+Dantas M, Leitão D, Correia C, Macedo R, Xu W, Paulo J. Monarch: Hierarchical Storage Management for Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO).
+
+Borges C, Paulo J. Realistic Assessment of Faults in Storage Systems. Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available [here](https://dsr-haslab.github.io/repository/bp21.pdf).
+
+Vilaça J, Paulo J, Vilaça R. Geolocate: A geolocation-aware scheduling system for Edge Computing. Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available [here](https://dsr-haslab.github.io/repository/vpv21.pdf).
+
+
 Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: A Software-Defined Storage Data Plane Framework. ArXiv – Computing Research Repository (CoRR).
 
 Faria A, Macedo R, Pereira J, Paulo J. BDUS: Implementing Block Devices in User Space. ACM International Systems and Storage Conference (SYSTOR).

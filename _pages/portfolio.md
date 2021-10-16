@@ -44,19 +44,23 @@ author_profile: true
 
 # Software
 
+### [Monarch](https://github.com/dsrhaslab/monarch)
+
+Monarch is a framework-agnostic middleware for hierarchical storage management. This solution leverages the existing storage tiers present at modern supercomputers (e.g., compute node’s local storage, PFS) to improve DL training performance and alleviate the current I/O pressure of the shared PFS. Work led by Marco Dantas.
+
 ### [BDUS](https://github.com/albertofaria/bdus)
 
-BDUS is a Linux 4.0+ framework for developing block devices in user space. More specifically, it enables users to implement block device drivers as regular user-space programs written in C.
+BDUS is a Linux 4.0+ framework for developing block devices in user space. More specifically, it enables users to implement block device drivers as regular user-space programs written in C. Work led by Alberto Faria.
 
 
 ### [S2Dedup](https://github.com/mmm97/S2Dedup)
 
-S2Dedup is a trusted hardware-based privacy-preserving deduplication system designed to support multiple security schemes that enable different levels of performance, security guarantees and space savings. Such feature is key to ensure S2Dedup’s applicability to a wider range of applications with different requirements. The proposed solution leverages Intel Software Guard Extensions to enable cross-user privacy-preserving deduplication at third-party storage infrastructures.
+S2Dedup is a trusted hardware-based privacy-preserving deduplication system designed to support multiple security schemes that enable different levels of performance, security guarantees and space savings. Such feature is key to ensure S2Dedup’s applicability to a wider range of applications with different requirements. The proposed solution leverages Intel Software Guard Extensions to enable cross-user privacy-preserving deduplication at third-party storage infrastructures. Work led by Mariana Miranda.
 
 
 ### [SafeFS](https://github.com/safecloud-project/safefs)
 
-SafeFS is a software-defined file system based on a modular architecture featuring stackable layers that can be combined to construct a secure distributed file system. SafeFS allows users to specialize their data store to their specific needs by choosing the combination of layers that provide the best safety and performance tradeoffs. The prototype is implemented in user space using FUSE The provided layers include mechanisms based on encryption, replication, and coding.
+SafeFS is a software-defined file system based on a modular architecture featuring stackable layers that can be combined to construct a secure distributed file system. SafeFS allows users to specialize their data store to their specific needs by choosing the combination of layers that provide the best safety and performance tradeoffs. The prototype is implemented in user space using FUSE The provided layers include mechanisms based on encryption, replication, and coding. Co-led with Rogério Pontes.
 
 
 ### [DEDISBench](https://github.com/jtpaulo/dedisbench)

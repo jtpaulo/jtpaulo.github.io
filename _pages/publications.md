@@ -23,6 +23,8 @@ Brito C, Ferreira P, Portela B, Oliveira R, Paulo J. Soteria: Privacy-Preserving
 
 Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: A Software-Defined Storage Data Plane Framework. ArXiv – Computing Research Repository (CoRR).
 
+Ferreira D, Paulo J, Matos M. ATOCS - Automatic Configuration of Secure Databases. European Dependable Computing Conference (EDCC).
+
 Faria A, Macedo R, Pereira J, Paulo J. BDUS: Implementing Block Devices in User Space. ACM International Systems and Storage Conference (SYSTOR).
 
 Miranda M, Esteves T, Portela B, Paulo J. S2Dedup: SGX-enabled Secure Deduplication. ACM International Systems and Storage Conference (SYSTOR).

@@ -9,7 +9,7 @@ author_profile: true
 
 Esteves T, Neves F, Oliveira R, Paulo J. CaT: Content-aware Tracing and Analysis for Distributed Systems. ACM/IFIP Middleware conference (Middleware) - Core rank A.
 
-Faria A, Macedo R, Paulo J. Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes. Workshop on Container Technologies and Container Clouds (WoC'21), colocated with Middleware
+Faria A, Macedo R, Paulo J. Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes. Workshop on Container Technologies and Container Clouds (WoC'21), colocated with Middleware.
 
 Macedo R, Correia C, Dantas M, Brito C, Xu W, Tanimura Y, Haga J, Paulo J. The Case for Storage Optimization Decoupling in Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with Cluster.
 
@@ -18,6 +18,8 @@ Dantas M, Leitão D, Correia C, Macedo R, Xu W, Paulo J. Monarch: Hierarchical S
 Borges C, Paulo J. Realistic Assessment of Faults in Storage Systems. Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available [here](https://dsr-haslab.github.io/repository/bp21.pdf).
 
 Vilaça J, Paulo J, Vilaça R. Geolocate: A geolocation-aware scheduling system for Edge Computing. Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available [here](https://dsr-haslab.github.io/repository/vpv21.pdf).
+
+Brito C, Ferreira P, Portela B, Oliveira R, Paulo J. Soteria: Privacy-Preserving Machine Learning for Apache Spark. Cryptology ePrint Archive, Report 2021/966.
 
 Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: A Software-Defined Storage Data Plane Framework. ArXiv – Computing Research Repository (CoRR).
 

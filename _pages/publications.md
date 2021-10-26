@@ -7,9 +7,11 @@ author_profile: true
 
 ### 2021
 
-Macedo R, Correia C, Dantas M, Brito C, Xu W, Tanimura Y, Haga J, Paulo J. The Case for Storage Optimization Decoupling in Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO).
+Faria A, Macedo R, Paulo J. Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes. Workshop on Container Technologies and Container Clouds (WoC'21), colocated with Middleware
 
-Dantas M, Leitão D, Correia C, Macedo R, Xu W, Paulo J. Monarch: Hierarchical Storage Management for Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO).
+Macedo R, Correia C, Dantas M, Brito C, Xu W, Tanimura Y, Haga J, Paulo J. The Case for Storage Optimization Decoupling in Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with Cluster.
+
+Dantas M, Leitão D, Correia C, Macedo R, Xu W, Paulo J. Monarch: Hierarchical Storage Management for Deep Learning Frameworks. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with Cluster.
 
 Borges C, Paulo J. Realistic Assessment of Faults in Storage Systems. Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available [here](https://dsr-haslab.github.io/repository/bp21.pdf).
 

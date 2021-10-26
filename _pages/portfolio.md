@@ -44,6 +44,14 @@ author_profile: true
 
 # Software
 
+### [CAT](https://github.com/dsrhaslab/cat)
+
+CaT is a black-box content-aware tracing and analysis framework. It analyzes distributed systems in a non-intrusive way, highlighting how their components interact with each other and how data flows through the system. Its design enables the capture of detailed information related to I/O network and disk events, such as the context of the request and the data processed by the event. With this information, CaT proposes an analysis of the event's content based on their similarity, allowing the detection of data flow patterns that are not visible when inspecting only the context of events. Work led by Tânia Esteves.
+
+### [PAV](https://github.com/albertofaria/pav)
+
+Pods-as-Volumes (PaV) is a Kubernetes plugin that simplifies the implementation of storage volume provisioners by allowing all logic underlying the lifecycle and behavior of volumes to be specified as pod templates, which are then instantiated as needed to create, delete, and expose volumes to applications. PaV reduces the effort required to integrate storage systems into Kubernetes and enables the straightforward creation of storage middleware components, improving modularity and Kubernetes’ ability to manage storage stacks. Work led by Alberto Faria.
+
 ### [Monarch](https://github.com/dsrhaslab/monarch)
 
 Monarch is a framework-agnostic middleware for hierarchical storage management. This solution leverages the existing storage tiers present at modern supercomputers (e.g., compute node’s local storage, PFS) to improve DL training performance and alleviate the current I/O pressure of the shared PFS. Work led by Marco Dantas.

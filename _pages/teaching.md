@@ -52,7 +52,7 @@ author_profile: true
 
 **2020** - Alberto Faria. Software-Defined Storage Control for Containerized HPC Applications. Co-advised with António Sousa and Ricardo Macedo.
 
-**2020** - Marco Dantas. Optimized storage system for Deep Learning services on HPC. Co-advised with Rui Oliveira and Ricardo Macedo.
+**2020** - Marco Dantas. Accelerating Deep Learning Training through Transparent Storage Tiering. Co-advised with Rui Oliveira and Ricardo Macedo.
 
 **2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
 

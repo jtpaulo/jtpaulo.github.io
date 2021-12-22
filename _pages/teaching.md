@@ -30,7 +30,7 @@ author_profile: true
 
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
-**2018** - Tânia Araújo. End-to-End Software-Defined Security for Big Data Ecosystems. Co-advised with Rui Oliveira.
+**2018** - Tânia Esteves. End-to-End Software-Defined Security for Big Data Ecosystems. Co-advised with Rui Oliveira.
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
@@ -39,6 +39,16 @@ author_profile: true
 # MSc Thesis Supervision
 
 ### Ongoing:
+
+**2021** - João Azevedo. Realistic Fault Assessment for Distributed Storage Systems. Co-advised with Ricardo Macedo.
+
+**2021** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
+
+**2021** - Alexandre Ferreira. Fault-tolerant and Large-scale Storage for POSIX-compliant Applications. Co-advised with Francisco Maia.
+
+**2021** - José Silva. Secure Data Streaming Solution for Apache Spark. Co-advised with Ricardo Vilaça and Cláudia Brito.
+
+**2021** - Pedro Rodrigues. Analysis of I/O patterns for Data Management Systems. Co-advised with Ricardo Vilaça and Tânia Esteves.
 
 **2020** - Alberto Faria. Software-Defined Storage Control for Containerized HPC Applications. Co-advised with António Sousa and Ricardo Macedo.
 
@@ -82,6 +92,8 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 
 # Other Supervision Activities
+
+**2020 - 2021** - Diogo Ribeiro (1st year MSc student). Worked on storage tiering.
 
 **2017 - 2020** - Alberto Faria (1st year MSc student). Worked on the SafeFS project.
 

@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2022
+
+Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST) - Core rank A.
+
 ### 2021
 
 Esteves T, Neves F, Oliveira R, Paulo J. CaT: Content-aware Tracing and Analysis for Distributed Systems. ACM/IFIP Middleware conference (Middleware) - Core rank A.

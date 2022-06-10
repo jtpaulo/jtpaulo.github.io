@@ -13,17 +13,18 @@ author_profile: true
 
 **2020-Current**: The BigHPC  project will provide a novel management framework, for Big Data and parallel computing workloads, that can be seamlessly integrated with existing HPC infrastructures and software stacks. The project will research, develop and integrate new monitoring, virtualization, and storage management components that can cope with the infrastructural scale and heterogeneity, as well as, the different workload requirements, while ensuring the best performance and resource usage for both applications and infrastructures. I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Wavecom (coordinator), INESC TEC, LIP, MACC, TACC, UT Austin
 
-### [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (PT-UTAustin Exploratory Project)](https://pastor-project.github.io)
-
-**2020-Current**: The PAstor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to meet applications dynamic requirements. The project will provide the first building blocks towards a novel storage architecture tailored for AI applications deployed at exascale computing infrastructures. I am one of the coordinators of the project. The project includes the following partners: INESC TEC (coordinator), TACC (coordinator), MACC, Hood College
-
-### [ACT-PM: Automating Crash-Consistency Testing for Persistent Memory (PT-UTAustin Exploratory Project)](https://utaustinportugal.org/projects/act-pm-automating-crash-consistency-testing-for-persistent-memory/)
-
-**2020-Current**: Persistent Memory (PM) provides a novel point in the traditional memory hierarchy that promises to improve the performance and efficiency of applications. However, to fully exploit these capabilities, novel tools to assess the correctness of these applications under faults are needed. The research conducted in this project, and the resulting tools, will advance the state-of-the-art in the above areas and improve the workflow and efficiency of PM application developers to ultimately leading to safer and more performant applications that fully leverage PM capabilities. I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: INESC ID (coordinator), UTAustin (coordinator), INESC TEC
-
 ### [Efficient and Secure Data Management for HPC and Cloud Computing (CENTRA project)](http://www.globalcentra.org/projects/#prv)
 
 **2018-Current**: The "Efficient and Secure Data Management for HPC and Cloud Computing" project aims at researching novel data management solutions for Cloud and HPC distributed environments. These solutions must be efficient, secure, and practical by: 1) alleviating any storage or processing performance bottlenecks identified for data-centric applications deployed on HPC and Cloud services; 2) following a privacy-by-design approach when storing and processing sensitive data on third-party infrastructures; and 3) re-using stable and industry-adopted storage systems, databases and analytical platforms. I am currently the coordinator of this project, which is being done in collaboration with the KISTI and AIST research centers (South Korea and Japan). It also includes external collaborations with researchers from TACC and UT Austin.
+
+### [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (PT-UTAustin Exploratory Project)](https://pastor-project.github.io)
+
+**2020-2021**: The PAstor project aims at providing a novel Software-Defined Storage (SDS) solution for HPC that can efficiently handle I/O flows from multiple AI workloads by automatically adjusting storage configurations and resources to meet applications dynamic requirements. The project will provide the first building blocks towards a novel storage architecture tailored for AI applications deployed at exascale computing infrastructures. I am one of the coordinators of the project. The project includes the following partners: INESC TEC (coordinator), TACC (coordinator), MACC, Hood College
+
+### [ACT-PM: Automating Crash-Consistency Testing for Persistent Memory (PT-UTAustin Exploratory Project)](https://utaustinportugal.org/projects/act-pm-automating-crash-consistency-testing-for-persistent-memory/)
+
+**2020-2021**: Persistent Memory (PM) provides a novel point in the traditional memory hierarchy that promises to improve the performance and efficiency of applications. However, to fully exploit these capabilities, novel tools to assess the correctness of these applications under faults are needed. The research conducted in this project, and the resulting tools, will advance the state-of-the-art in the above areas and improve the workflow and efficiency of PM application developers to ultimately leading to safer and more performant applications that fully leverage PM capabilities. I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: INESC ID (coordinator), UTAustin (coordinator), INESC TEC
+
 
 ### [IBM Research Haifa Joint Study Agreement]()
 

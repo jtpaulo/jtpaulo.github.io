@@ -7,7 +7,9 @@ author_profile: true
 
 ### 2022
 
-Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J., Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST) - Core rank A.
+Dantas M, Leitão D, Cui P, Macedo R, Liu X, Xu W, Paulo J. Accelerating Deep Learning Training Through Transparent Storage Tiering. IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid) - Core rank A 
+
+Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J, Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST) - Core rank A.
 
 ### 2021
 

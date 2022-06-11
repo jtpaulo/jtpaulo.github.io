@@ -9,7 +9,7 @@ author_profile: true
 
 # Teaching
 
-**2021/2022** - Lecturer of the Cloud Computing Services and Applications class (responsible) (fourth year of the MIEI course in Informatics Engineering, U. Minho).
+**2021/2022** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the LEI BSc course in Informatics Engineering, U. Minho).
 
 **2020/2021** - Lecturer of the system benchmarking & deployment class (responsible), the data center administration practical class (fourth year of the MIEI course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
 
@@ -52,15 +52,17 @@ author_profile: true
 
 **2020** - Alberto Faria. Software-Defined Storage Control for Containerized HPC Applications. Co-advised with António Sousa and Ricardo Macedo.
 
-**2020** - Marco Dantas. Accelerating Deep Learning Training through Transparent Storage Tiering. Co-advised with Rui Oliveira and Ricardo Macedo.
-
 **2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
-
-**2020** - João Vilaça. Orchestration and Distribution of Services in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
 
 ### Concluded:
 
+
+**2022** - Marco Dantas. Accelerating Deep Learning Training
+on High-Performance Computing with Storage Tiering. Co-advised with Rui Oliveira and Ricardo Macedo.
+
+**2021** - João Vilaça. Orchestration and Distribution of Services
+in Hybrid Cloud/Edge Environments. Co-advised with Ricardo Vilaça.
 
 **2021** - Diogo Leitão. RSafeFS: Sistema de Ficheiros Modular para Armazenamento Remoto (RSafeFS: Modular File System for Remote Storage). Co-advised with Ricardo Macedo and José Pereira.
 

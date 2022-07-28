@@ -34,7 +34,7 @@ author_profile: true
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
-**2017** - Ricardo Macedo. Towards a Dependable and Decentralized Software-Defined Storage Architecture. Co-advised with José Pereira.
+**2017** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
 
 # MSc Thesis Supervision
 

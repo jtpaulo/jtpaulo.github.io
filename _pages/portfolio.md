@@ -22,7 +22,7 @@ author_profile: true
 ### [LazyFS: Lazy Filesystem Project]()
 
 **2020-Current**: The LazyFS project aims at providing a lazy file system implementation that can simulate the
-loss of data that was not synchronized to disk by applications (e.g., databases).I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Jepsen, LLC.
+loss of data that was not synchronized to disk by applications (e.g., databases). I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Jepsen, LLC.
 
 ### [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (PT-UTAustin Exploratory Project)](https://pastor-project.github.io)
 
@@ -55,6 +55,15 @@ loss of data that was not synchronized to disk by applications (e.g., databases)
 ### [LAZYFS](https://github.com/dsrhaslab/lazyfs)
 
 LazyFS is a FUSE Filesystem with its own configurable page cache which can be used to simulate failures on un-fsynced data. Work led by João Azevedo.
+
+
+### [PAIO](https://github.com/dsrhaslab/lazyfs)
+
+PAIO is a framework that enables system designers to build custom-made SDS data plane stages. A data plane stage built with PAIO targets the workflows of a given user-level layer, enabling the classification and differentiation of requests and the enforcement of different storage mechanisms according to user-defined storage policies. Examples of such policies can be as simple as rate limiting greedy tenants to achieve resource fairness, to more complex ones as coordinating workflows with different priorities to ensure sustained tail latency. Work led by Ricardo Macedo.
+
+### [PRISMA](https://github.com/dsrhaslab/prisma)
+
+Prisma is a storage data plane that accelerates the training performance of Deep Learning (DL) frameworks. It implements a parallel data prefetching mechanism that reads training data in advance and stores it in an in-memory buffer to serve incoming I/O requests of DL frameworks. Work led by Cláudia Correia.
 
 ### [CAT](https://github.com/dsrhaslab/cat)
 

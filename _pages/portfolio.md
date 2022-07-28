@@ -57,7 +57,7 @@ loss of data that was not synchronized to disk by applications (e.g., databases)
 LazyFS is a FUSE Filesystem with its own configurable page cache which can be used to simulate failures on un-fsynced data. Work led by João Azevedo.
 
 
-### [PAIO](https://github.com/dsrhaslab/lazyfs)
+### [PAIO](https://github.com/dsrhaslab/paio)
 
 PAIO is a framework that enables system designers to build custom-made SDS data plane stages. A data plane stage built with PAIO targets the workflows of a given user-level layer, enabling the classification and differentiation of requests and the enforcement of different storage mechanisms according to user-defined storage policies. Examples of such policies can be as simple as rate limiting greedy tenants to achieve resource fairness, to more complex ones as coordinating workflows with different priorities to ensure sustained tail latency. Work led by Ricardo Macedo.
 

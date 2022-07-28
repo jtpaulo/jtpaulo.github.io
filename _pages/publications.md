@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2022
 
+Macedo R, Miranda M, Tanimura Y, Haga J, Ruhela A, Harrell S, Evans T, Paulo J. Protecting Metadata Servers From Harm Through Application-level I/O Control. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with Cluster.
+
 Dantas M, Leitão D, Cui P, Macedo R, Liu X, Xu W, Paulo J. Accelerating Deep Learning Training Through Transparent Storage Tiering. IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid) - Core rank A 
 
 Macedo R, Tanimura Y, Haga J, Chidambaram V, Pereira J, Paulo J. PAIO: General, Portable I/O Optimizations With Minor Application Modifications. USENIX Conference on File and Storage Technologies (FAST) - Core rank A.

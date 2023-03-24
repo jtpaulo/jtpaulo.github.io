@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2023
+
+Macedo R, Miranda M, Tanimura Y, Haga J, Ruhela A, Harrell S, Evans T, Pereira J, Paulo J. Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control. IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid) - Core rank A.
+
+Brito C, Ferreira P, Portela B, Oliveira R, Paulo J. SOTERIA: Preserving Privacy in Distributed Machine Learning. ACM/SIGAPP Symposium on Applied Computing (SAC)
+
 ### 2022
 
 Macedo R, Miranda M, Tanimura Y, Haga J, Ruhela A, Harrell S, Evans T, Paulo J. Protecting Metadata Servers From Harm Through Application-level I/O Control. Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads (REX-IO), colocated with Cluster.

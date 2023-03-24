@@ -9,7 +9,9 @@ author_profile: true
 
 # Teaching
 
-**2021/2022** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the LEI BSc course in Informatics Engineering, U. Minho).
+**2022/2023** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), and the operating systems class (second year of the LEI and LCC (responsible) BSc course in Informatics Engineering, U. Minho).
+
+**2021/2022** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the LEI and LCC BSc course in Informatics Engineering, U. Minho).
 
 **2020/2021** - Lecturer of the system benchmarking & deployment class (responsible), the data center administration practical class (fourth year of the MIEI course in Informatics Engineering, U. Minho), and the operating systems practical class (second year of the MIEI course in Informatics Engineering, U. Minho).
 
@@ -34,13 +36,14 @@ author_profile: true
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
-**2017** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
+### Concluded:
+
+**2023** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
 
 # MSc Thesis Supervision
 
 ### Ongoing:
 
-**2021** - João Azevedo. Realistic Fault Assessment for Distributed Storage Systems. Co-advised with Ricardo Macedo.
 
 **2021** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
 
@@ -50,13 +53,10 @@ author_profile: true
 
 **2021** - Pedro Rodrigues. Analysis of I/O patterns for Data Management Systems. Co-advised with Ricardo Vilaça and Tânia Esteves.
 
-**2020** - Alberto Faria. Software-Defined Storage Control for Containerized HPC Applications. Co-advised with António Sousa and Ricardo Macedo.
-
-**2020** - César Borges. Realistic Assessment of Faults in Storage Systems. Co-advised with José Pereira.
-
 
 ### Concluded:
 
+**2022** - João Azevedo. Realistic Fault Assessment for Distributed Storage Systems. Co-advised with Ricardo Macedo.
 
 **2022** - Marco Dantas. Accelerating Deep Learning Training
 on High-Performance Computing with Storage Tiering. Co-advised with Rui Oliveira and Ricardo Macedo.

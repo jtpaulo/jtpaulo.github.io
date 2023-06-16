@@ -104,9 +104,15 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 # Other Supervision Activities
 
-**2020 - 2021** - Diogo Ribeiro (1st year MSc student). Worked on storage tiering.
+**2022 - current** - Rui Oliveira (BSc student). Worked on ransomware's I/O diagnosis. Working on storage deduplication. Co-supervision with Tânia Esteves and João Marco.  
 
-**2017 - 2020** - Alberto Faria (1st year MSc student). Worked on the SafeFS project.
+**2022 - current** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves. 
+
+**2021 - 2023** - Bruno Pereira (MSc student). Worked on ransomware's I/O diagnosis. Co-supervision with Tânia Esteves and João Marco.
+
+**2020 - 2021** - Diogo Ribeiro (MSc student). Worked on storage tiering. Co-supervision with Ricardo Macedo. 
+
+**2017 - 2020** - Alberto Faria (MSc student). Worked on the SafeFS project. Co-supervision with Ricardo Macedo. 
 
 **2017 - 2020** - Daniel Cruz (Research Assistant). Worked on secure databases. 
 

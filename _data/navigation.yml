@@ -12,6 +12,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  #- title: "Service"
+  #  url: /service/
     
   - title: "Projects and Software"
     url: /portfolio/

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-João Paulo is an invited assistant professor at UMinho and a senior researcher at INESC TEC. He obtained his Ph.D degree in 2015 and is currently leading the HASLab's research team working on distributed storage systems and data management for HPC and Cloud Computing environments - [https://dsr-haslab.github.io](https://dsr-haslab.github.io).
+João Paulo is an assistant professor at UMinho and a senior researcher at INESC TEC. He obtained his Ph.D degree in 2015 and is currently leading the HASLab's research team working on distributed storage systems and data management for HPC and Cloud Computing environments - [https://dsr-haslab.github.io](https://dsr-haslab.github.io).
 
 His research is focused on large scale distributed systems with an emphasis on storage and database systems' scalability, performance, security and dependability. Namely, he is interested on the applicability of such research for solving complex data management challenges for Cloud Computing and HPC centers. 
 

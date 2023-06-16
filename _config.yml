@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "João Paulo"
-description              : &description "Invited Assistant Professor and Senior Researcher at HASLab - INESC TEC and U.Minho"
+description              : &description "Assistant Professor and Senior Researcher at HASLab - INESC TEC and U.Minho"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jtpaulo/jtpaulo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "João Paulo"
   avatar           : "profile.png"
-  bio              : "Invited Assistant Professor and Senior Researcher at HASLab - INESC TEC and U.Minho"
+  bio              : "Assistant Professor and Senior Researcher at HASLab - INESC TEC and U.Minho"
   location         : "Universidade do Minho, Portugal"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

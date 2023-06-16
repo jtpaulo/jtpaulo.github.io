@@ -10,18 +10,17 @@ author_profile: true
 # Projects
 
 
-
 ### [BigHPC: A Management Framework for Consolidated Big Data and HPC (POCI-01-0247-FEDER-045924)](http://bighpc.wavecom.pt)
 
-**2020-Current**: The BigHPC  project will provide a novel management framework, for Big Data and parallel computing workloads, that can be seamlessly integrated with existing HPC infrastructures and software stacks. The project will research, develop and integrate new monitoring, virtualization, and storage management components that can cope with the infrastructural scale and heterogeneity, as well as, the different workload requirements, while ensuring the best performance and resource usage for both applications and infrastructures. I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Wavecom (coordinator), INESC TEC, LIP, MACC, TACC, UT Austin
+**2020-2023**: The BigHPC  project will provide a novel management framework, for Big Data and parallel computing workloads, that can be seamlessly integrated with existing HPC infrastructures and software stacks. The project will research, develop and integrate new monitoring, virtualization, and storage management components that can cope with the infrastructural scale and heterogeneity, as well as, the different workload requirements, while ensuring the best performance and resource usage for both applications and infrastructures. I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Wavecom (coordinator), INESC TEC, LIP, MACC, TACC, UT Austin
 
 ### [Efficient and Secure Data Management for HPC and Cloud Computing (CENTRA project)](http://www.globalcentra.org/projects/#prv)
 
-**2018-Current**: The "Efficient and Secure Data Management for HPC and Cloud Computing" project aims at researching novel data management solutions for Cloud and HPC distributed environments. These solutions must be efficient, secure, and practical by: 1) alleviating any storage or processing performance bottlenecks identified for data-centric applications deployed on HPC and Cloud services; 2) following a privacy-by-design approach when storing and processing sensitive data on third-party infrastructures; and 3) re-using stable and industry-adopted storage systems, databases and analytical platforms. I am currently the coordinator of this project, which is being done in collaboration with the KISTI and AIST research centers (South Korea and Japan). It also includes external collaborations with researchers from TACC and UT Austin.
+**2018-2022**: The "Efficient and Secure Data Management for HPC and Cloud Computing" project aims at researching novel data management solutions for Cloud and HPC distributed environments. These solutions must be efficient, secure, and practical by: 1) alleviating any storage or processing performance bottlenecks identified for data-centric applications deployed on HPC and Cloud services; 2) following a privacy-by-design approach when storing and processing sensitive data on third-party infrastructures; and 3) re-using stable and industry-adopted storage systems, databases and analytical platforms. I am currently the coordinator of this project, which is being done in collaboration with the KISTI and AIST research centers (South Korea and Japan). It also includes external collaborations with researchers from TACC and UT Austin.
 
 ### [LazyFS: Lazy Filesystem Project]()
 
-**2020-Current**: The LazyFS project aims at providing a lazy file system implementation that can simulate the
+**2020-2020**: The LazyFS project aims at providing a lazy file system implementation that can simulate the
 loss of data that was not synchronized to disk by applications (e.g., databases). I am responsible for INESC TEC's activities and team in the project. The project includes the following partners: Jepsen, LLC.
 
 ### [PAStor: Programmable and Adaptable Storage for AI-oriented HPC Ecosystems (PT-UTAustin Exploratory Project)](https://pastor-project.github.io)

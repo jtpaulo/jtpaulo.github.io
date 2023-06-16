@@ -44,8 +44,15 @@ author_profile: true
 
 ### Ongoing:
 
+**2022** - Pedro Pereira. Benchmark IoT. Co-advised with Fábio Coelho and Luís Ferreira.
 
-**2021** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
+**2022** - Rúben Adão. Co-designing LSM-based Key-Value Stores with Hybrid storage for Optimal Cost-Performance Ratio. Co-advised with Ricardo Macedo.
+
+**2022** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
+
+**2022** - Maria Ramos. Realistic Fault Assessment in Distributed Storage Systems. Co-advised with Ricardo Macedo and Tânia Esteves. 
+
+**2022** - Maria Beatriz Moreira. I/O Optimizations for Distributed Deep Learning Training. Co-advised with Ricardo Macedo and Cláudia Brito.
 
 **2021** - Alexandre Ferreira. Fault-tolerant and Large-scale Storage for POSIX-compliant Applications. Co-advised with Francisco Maia.
 
@@ -55,6 +62,8 @@ author_profile: true
 
 
 ### Concluded:
+
+**2023** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
 
 **2022** - João Azevedo. Realistic Fault Assessment for Distributed Storage Systems. Co-advised with Ricardo Macedo.
 

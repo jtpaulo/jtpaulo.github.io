@@ -61,18 +61,10 @@ author_profile: true
 
 **2018** - IEEE Transactions on Computers Journal.
 
-**2018** - International Conference on Dependable Systems and Networks (DSN’18).
-
 **2017** - Future Generation Computer Systems.
 
 **2017** - Journal of Network and Computer Applications.
 
 **2017** - ACM Transactions on Storage Journal.
-
-**2017** - ACM/IFIP International Middleware Conference.
-
-**2017** - Data Compression Conference.
-
-**2016** - IEEE Transactions on Parallel and Distributed Systems.
 
 **2016** - IEEE Transactions on Parallel and Distributed Systems.

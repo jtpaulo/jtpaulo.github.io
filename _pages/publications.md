@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2023
 
-Esteves T, Pereira B, P. Oliveira R, Marco J, Paulo J. CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior. Symposium on Reliable Distributed Systems (SRDS).
+Esteves T, Pereira B, Pedro Oliveira R, Marco J, Paulo J. CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior. IEEE International Symposium on Reliable Distributed Systems (SRDS).
 
 Esteves T, Macedo R, Oliveira R, Paulo J. Diagnosing applications’ I/O behavior through system call observability. Workshop on Data-Centric Dependability and Security (DCDS), colocated with DSN.
 
@@ -66,9 +66,9 @@ Carvalho H, Cruz D, Pontes R, Paulo J, Oliveira R. SafeSpark: Plataforma de Proc
 
 ### 2017
 
-Pontes R., Burihabwa D., Maia F., Paulo J., Schiavoni V., Felber P., Mercier H., Oliveira R.: SafeFS: A Modular Architecture for Secure User-Space File Systems (One FUSE to rule them all). International Systems and Storage Conference (SYSTOR) – Best student paper award.
+Pontes R., Burihabwa D., Maia F., Paulo J., Schiavoni V., Felber P., Mercier H., Oliveira R.: SafeFS: A Modular Architecture for Secure User-Space File Systems (One FUSE to rule them all). ACM International Systems and Storage Conference (SYSTOR) – Best student paper award.
 
-Macedo R., Paulo J., Pontes R., Portela B., Oliveira T., Matos M., Oliveira R. A Practical Framework for Privacy-Preserving NoSQL Databases. Symposium on Reliable Distributed Systems (SRDS) - Core rank A.
+Macedo R., Paulo J., Pontes R., Portela B., Oliveira T., Matos M., Oliveira R. A Practical Framework for Privacy-Preserving NoSQL Databases. IEEE International Symposium on Reliable Distributed Systems (SRDS) - Core rank A.
 
 Maia F, Paulo J, Coelho F, Neves F, Pereira J, Oliveira R. DDFlasks: Deduplicated Very Large Scale Data Store. Distributed Applications and Interoperable Systems International Conference (DAIS).
 

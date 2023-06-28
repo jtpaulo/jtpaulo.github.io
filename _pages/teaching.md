@@ -32,7 +32,7 @@ author_profile: true
 
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
-**2018** - Tânia Esteves. End-to-End Software-Defined Security for Big Data Ecosystems. Co-advised with Rui Oliveira.
+**2018** - Tânia Esteves. Flexible Tracing and Analysis of Applications' I/O Behavior. Co-advised with Rui Oliveira.
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 

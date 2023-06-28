@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2023
 
+Esteves T, Pereira B, P. Oliveira R, Marco J, Paulo J. CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior. Symposium on Reliable Distributed Systems (SRDS).
+
 Esteves T, Macedo R, Oliveira R, Paulo J. Diagnosing applications’ I/O behavior through system call observability. Workshop on Data-Centric Dependability and Security (DCDS), colocated with DSN.
 
 Macedo R, Miranda M, Tanimura Y, Haga J, Ruhela A, Harrell S, Evans T, Pereira J, Paulo J. Taming Metadata-intensive HPC Jobs Through Dynamic, Application-agnostic QoS Control. IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid) - Core rank A.

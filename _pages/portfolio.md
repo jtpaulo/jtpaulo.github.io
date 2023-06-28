@@ -51,6 +51,18 @@ loss of data that was not synchronized to disk by applications (e.g., databases)
 
 # Software
 
+### [DIO](https://github.com/dsrhaslab/dio) 
+
+DIO is a generic tool for observing and diagnosing applications storage I/O. It is designed to be used by applications developers and users to understand how applications interact with storage systems. By combining system call tracing with a customizable data analysis and visualization pipeline, DIO provide non-intrusive and comprehensive I/O diagnosis for applications using in-kernel POSIX storage systems (e.g., ext4, linux block device). Work led by Tânia Esteves.
+
+### [Cheferd](https://github.com/dsrhaslab/cheferd) 
+
+Cheferd is a storage manager that is able to hollistically orchestrate and manage storage resources.The current prototype follows hierarchical design, where the controllers have different responsibilities depending on their control level. Work led by Mariana Miranda.
+
+### [PADLL](https://github.com/dsrhaslab/padll) 
+
+PADLL is a storage middleware that enables system administrators to proactively and holistically control the rate of data and metadata workflows to achieve QoS in HPC storage systems. Work led by Ricardo Macedo.
+
 ### [LAZYFS](https://github.com/dsrhaslab/lazyfs)
 
 LazyFS is a FUSE Filesystem with its own configurable page cache which can be used to simulate failures on un-fsynced data. Work led by João Azevedo.

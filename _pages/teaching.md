@@ -46,6 +46,14 @@ author_profile: true
 
 ### Ongoing:
 
+**2023** - Francisco Neves. Heterogeneous storage solution for deep learning frameworks. Co-advised with Cláudia Brito.
+
+**2023** - Guilherme Fernandes. Programmable and Adaptable User-level Storage Systems. Co-advised with Ricardo Macedo.
+
+**2023** - Bruno Pereira. Analysis and detection of Ransomware's I/O patterns. Co-advised with João Marco and Tânia Esteves.
+
+**2023** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
+
 **2022** - Pedro Pereira. Benchmark IoT. Co-advised with Fábio Coelho and Luís Ferreira.
 
 **2022** - Rúben Adão. Co-designing LSM-based Key-Value Stores with Hybrid storage for Optimal Cost-Performance Ratio. Co-advised with Ricardo Macedo.
@@ -56,14 +64,13 @@ author_profile: true
 
 **2022** - Maria Beatriz Moreira. I/O Optimizations for Distributed Deep Learning Training. Co-advised with Ricardo Macedo and Cláudia Brito.
 
-**2021** - Alexandre Ferreira. Fault-tolerant and Large-scale Storage for POSIX-compliant Applications. Co-advised with Francisco Maia.
-
-**2021** - José Silva. Secure Data Streaming Solution for Apache Spark. Co-advised with Ricardo Vilaça and Cláudia Brito.
-
-**2021** - Pedro Rodrigues. Analysis of I/O patterns for Data Management Systems. Co-advised with Ricardo Vilaça and Tânia Esteves.
-
-
 ### Concluded:
+
+**2023** - Pedro António. Kamailio-KSIPADP: Support for Cloud and Kubernetes environments and evolution towards SaaS. Co-advised with Paulo Carvalho.
+
+**2023** - Pedro Rodrigues. Analysis of I/O patterns for Data Management Systems. Co-advised with Ricardo Vilaça and Tânia Esteves.
+
+**2023** - Alexandre Ferreira. Armazenamento confiável e em larga escala para aplicações compatíveis com POSIX (Fault-tolerant and Large-scale Storage for POSIX-compliant Applications). Co-advised with Francisco Maia.
 
 **2023** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
 

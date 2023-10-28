@@ -23,9 +23,9 @@ author_profile: true
 
 # Conferences/Workshops (TPC)
 
-**2024** ACM/IFIP International Middleware (Middleware'24)
+**2024** - ACM/IFIP International Middleware (Middleware'24)
 
-**2023** ACM/IFIP International Middleware - Demos, Posters and Doctoral Symposium (Middleware'23)
+**2023** - ACM/IFIP International Middleware - Demos, Posters and Doctoral Symposium (Middleware'23)
 
 **2023** - International Symposium on Reliable Distributed Systems (SRDS’23).
 

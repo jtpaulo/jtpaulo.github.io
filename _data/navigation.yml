@@ -4,8 +4,11 @@ main:
   - title: "Bio"
     url: /cv/
 
-  - title: "Teaching and Supervision"
-    url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Supervision"
+    url: /supervision/   
 
   #- title: "Talks"
   #  url: /talks/    

@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2023
 
+Esteves T, Macedo R, Oliveira R, Paulo J. Toward a practical and timely diagnosis of applications’ I/O behavior. IEEE Access.
+
 Esteves T, Pereira B, Pedro Oliveira R, Marco J, Paulo J. CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior. IEEE International Symposium on Reliable Distributed Systems (SRDS).
 
 Esteves T, Macedo R, Oliveira R, Paulo J. Diagnosing applications’ I/O behavior through system call observability. Workshop on Data-Centric Dependability and Security (DCDS), colocated with DSN.

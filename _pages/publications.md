@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2023
 
+Brito C, Ferreira P, Portela B, Oliveira R, Paulo J. Privacy-Preserving Machine Learning on Apache Spark. IEEE Access.
+
 Esteves T, Macedo R, Oliveira R, Paulo J. Toward a practical and timely diagnosis of applications’ I/O behavior. IEEE Access.
 
 Esteves T, Pereira B, Pedro Oliveira R, Marco J, Paulo J. CRIBA: A Tool for Comprehensive Analysis of Cryptographic Ransomware's I/O Behavior. IEEE International Symposium on Reliable Distributed Systems (SRDS).

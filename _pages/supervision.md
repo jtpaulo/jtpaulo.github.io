@@ -53,7 +53,7 @@ author_profile: true
 
 **2023** - Alexandre Miranda. Realistic Assesment of Failures in the SPDK Platform. Co-advised with Ricardo Macedo.
 
-**2022** - João Azevedo. Realistic Fault Assessment for Distributed Storage Systems. Co-advised with Ricardo Macedo.
+**2022** - João Azevedo. LazyFS: A file system for assessing applications data durability. Co-advised with Ricardo Macedo.
 
 **2022** - Marco Dantas. Accelerating Deep Learning Training
 on High-Performance Computing with Storage Tiering. Co-advised with Rui Oliveira and Ricardo Macedo.

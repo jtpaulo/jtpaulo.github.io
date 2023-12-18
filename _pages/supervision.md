@@ -33,8 +33,6 @@ author_profile: true
 
 **2023** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
 
-**2022** - Pedro Pereira. Benchmark IoT. Co-advised with Fábio Coelho and Luís Ferreira.
-
 **2022** - Rúben Adão. Co-designing LSM-based Key-Value Stores with Hybrid storage for Optimal Cost-Performance Ratio. Co-advised with Ricardo Macedo.
 
 **2022** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
@@ -44,6 +42,9 @@ author_profile: true
 **2022** - Maria Beatriz Moreira. I/O Optimizations for Distributed Deep Learning Training. Co-advised with Ricardo Macedo and Cláudia Brito.
 
 ### Concluded:
+
+**2023** - Pedro Pereira. MulletBench: Multi-layer Edge Time Series
+Database Benchmark. Co-advised with Fábio Coelho and Luís Ferreira.
 
 **2023** - Pedro António. Kamailio-KSIPADP: Support for Cloud and Kubernetes environments and evolution towards SaaS. Co-advised with Paulo Carvalho.
 

@@ -27,6 +27,8 @@ author_profile: true
 
 **2023** - ACM/IFIP International Middleware - Demos, Posters and Doctoral Symposium (Middleware'23)
 
+**2023** - Brazilian Symposium on Computing Systems Engineering (SBESC’23).
+
 **2023** - International Symposium on Reliable Distributed Systems (SRDS’23).
 
 **2023** - IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid'23).
@@ -56,6 +58,8 @@ author_profile: true
 **2016** - International Workshop on Virtualization Technologies.
 
 # Journals (reviewer)
+
+**2023** - ACM Transactions on Storage.
 
 **2021** - Springer Algorithmica Journal.
 

@@ -33,15 +33,17 @@ author_profile: true
 
 **2023** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
 
-**2022** - Rúben Adão. Co-designing LSM-based Key-Value Stores with Hybrid storage for Optimal Cost-Performance Ratio. Co-advised with Ricardo Macedo.
-
 **2022** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
 
-**2022** - Maria Ramos. Realistic Fault Assessment in Distributed Storage Systems. Co-advised with Ricardo Macedo and Tânia Esteves. 
-
-**2022** - Maria Beatriz Moreira. I/O Optimizations for Distributed Deep Learning Training. Co-advised with Ricardo Macedo and Cláudia Brito.
 
 ### Concluded:
+
+**2024** - Rúben Adão. Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile Storage Hierarchy. Co-advised with Ricardo Macedo.
+
+**2024** - Maria Ramos. Injeção de Faltas Reprodutível em Sistemas de
+Armazenamento Local (Reproducible Fault Injection for Local Storage Systems). Co-advised with Ricardo Macedo and Tânia Esteves. 
+
+**2024** - Maria Beatriz Moreira. Otimizações de Armazenamento Distribuído para Aprendizagem Profunda (I/O Optimizations for Distributed Deep Learning Training). Co-advised with Ricardo Macedo and Cláudia Brito.
 
 **2023** - Pedro Pereira. MulletBench: Multi-layer Edge Time Series
 Database Benchmark. Co-advised with Fábio Coelho and Luís Ferreira.

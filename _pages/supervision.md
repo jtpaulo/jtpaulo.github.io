@@ -11,6 +11,10 @@ author_profile: true
 
 ### Ongoing:
 
+**2024** - Maria Ramos. Assessing the fault tolerance of data-centric applications. Co-advised with Tânia Esteves.
+
+**2024** - Ruben Adão. Heterogeneous Storage Systems for Modern Data Centers. Co-advised with Ricardo Macedo.
+
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.

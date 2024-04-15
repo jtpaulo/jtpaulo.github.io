@@ -13,11 +13,11 @@ author_profile: true
 
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
-**2018** - Tânia Esteves. Flexible Tracing and Analysis of Applications' I/O Behavior. Co-advised with Rui Oliveira.
-
 **2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
 ### Concluded:
+
+**2024** - Tânia Esteves. Flexible Tracing and Analysis of Applications' I/O Behavior. Co-advised with Rui Oliveira.
 
 **2023** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
 

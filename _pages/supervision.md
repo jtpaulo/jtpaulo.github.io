@@ -99,6 +99,9 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 # Other Supervision Activities
 
+
+**2023 - current** - Bruno Gião (BSc student). Working on eBPFs. Co-supervision with Tânia Esteves.
+
 **2022 - current** - Rui Oliveira (BSc student). Worked on ransomware's I/O diagnosis. Working on storage deduplication. Co-supervision with Tânia Esteves and João Marco.  
 
 **2022 - current** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves. 

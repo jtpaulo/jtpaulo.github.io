@@ -17,9 +17,10 @@ author_profile: true
 
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
-**2018** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
 ### Concluded:
+
+**2024** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
 **2024** - Tânia Esteves. Flexible Tracing and Analysis of Applications' I/O Behavior. Co-advised with Rui Oliveira.
 
@@ -37,10 +38,10 @@ author_profile: true
 
 **2023** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
 
-**2022** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
-
 
 ### Concluded:
+
+**2024** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
 
 **2024** - Rúben Adão. Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile Storage Hierarchy. Co-advised with Ricardo Macedo.
 

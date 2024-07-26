@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+Ramos M, Azevedo J, Kingsbury K, Pereira J, Esteves T, Macedo R, Paulo J. When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection. International Conference on Very Large Data Bases (VLDB) - Core rank A*.
+
 ### 2023
 
 Brito C, Ferreira P, Portela B, Oliveira R, Paulo J. Privacy-Preserving Machine Learning on Apache Spark. IEEE Access.

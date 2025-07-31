@@ -9,6 +9,8 @@ author_profile: true
 
 # Conferences/Workshops (Chair)
 
+**2025** - International Symposium on Reliable Distributed Systems (SRDS'25). Workshops Co-Chair.
+
 **2023** - Conference on Distributed Applications and Interoperable Systems (DAIS’23). PC Chair.
 
 **2021** - Workshop on High-Performance and Reliable Big Data (HPBD’21). Colocated with SRDS’21. PC Chair.
@@ -23,7 +25,17 @@ author_profile: true
 
 # Conferences/Workshops (TPC)
 
+**2025** - ACM/IFIP International Middleware (Middleware’25)
+
+**2025** - International Parallel Data Systems Workshop (PDSW'25)
+
+**2025** - IEEE International Conference on Cloud Computing (IEEE CLOUD'25)
+
+**2025** - Inforum - Track de Segurança dos Sistemas de Computadores e das Comunicações (SSCC'25)
+
 **2024** - ACM/IFIP International Middleware (Middleware'24)
+
+**2024** - International Parallel Data Systems Workshop (PDSW'24)
 
 **2023** - ACM/IFIP International Middleware - Demos, Posters and Doctoral Symposium (Middleware'23)
 
@@ -58,6 +70,10 @@ author_profile: true
 **2016** - International Workshop on Virtualization Technologies.
 
 # Journals (reviewer)
+
+**2024** - ACM Transactions on Storage
+
+**2024** - IEEE Transactions on Dependable and Secure Computing.
 
 **2023** - ACM Transactions on Storage.
 

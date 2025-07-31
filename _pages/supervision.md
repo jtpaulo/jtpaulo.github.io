@@ -11,6 +11,10 @@ author_profile: true
 
 ### Ongoing:
 
+**2025** - Bruno Pereira. Secure and Resilient Storage System Against Ransomware. Co-advised with Tânia Esteves.
+
+**2024** - José Pedro Peixoto. Software-Managed Resource Disaggregation for Large-Scale HPC Infrastructures. Co-advised with Ricardo Macedo.
+
 **2024** - Maria Ramos. Assessing the fault tolerance of data-centric applications. Co-advised with Tânia Esteves.
 
 **2024** - Ruben Adão. Heterogeneous Storage Systems for Modern Data Centers. Co-advised with Ricardo Macedo and Oana Balmau.
@@ -30,23 +34,38 @@ author_profile: true
 
 ### Ongoing:
 
+**2024** - Daniel Du. Automated Security Testing in CI/CD Pipelines for Infrastructure as Code (IaC). Co-advised with Tânia Esteves.
+
+**2024** - Ana Rita Vaz. I/O Characterization of HPC applications. Co-advised with Tânia Esteves.
+
+**2024** - Carlos Eduardo Machado. Improving the observability of complex I/O stacks. Co-advised with Tânia Esteves.
+
+**2024** - Gonçalo Sousa. Fault-Tolerant Storage Solutions for AI Training in HPC. Co-advised with Cláudia Brito.
+
+**2024** - André Lucena Ferreira. Storage Optimizations for large-scale AI training in HPC. Co-advised with Cláudia Brito.
+
+**2024** - Rui Pedro Oliveira. Efficient Deduplication for the SPDK Platform.
+
+**2024** - Diogo Novo. An hybrid approach to dependable distributed storage. Co-advised with Francisco Maia.
+
+**2024** - Gonçalo Pinto. Chaos Engineering in Large Scale Systems.
+
 **2023** - Francisco Neves. Heterogeneous storage solution for deep learning frameworks. Co-advised with Cláudia Brito.
 
 **2023** - Guilherme Fernandes. Programmable and Adaptable User-level Storage Systems. Co-advised with Ricardo Macedo.
 
-**2023** - Bruno Pereira. Analysis and detection of Ransomware's I/O patterns. Co-advised with João Marco and Tânia Esteves.
-
-**2023** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
-
-
 ### Concluded:
+
+**2025** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
+
+**2025** - Bruno Pereira. Towards Optimized Development and Testing of Ransomware Detection Solutions. Co-advised with João Marco and Tânia Esteves.
 
 **2024** - Pedro Peixoto. Programmable Caches with System-wide Visibility. Co-advised with Ricardo Macedo.
 
 **2024** - Rúben Adão. Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile Storage Hierarchy. Co-advised with Ricardo Macedo.
 
 **2024** - Maria Ramos. Injeção de Faltas Reprodutível em Sistemas de
-Armazenamento Local (Reproducible Fault Injection for Local Storage Systems). Co-advised with Ricardo Macedo and Tânia Esteves. 
+Armazenamento Local (Reproducible Fault Injection for Local Storage Systems). Co-advised with Ricardo Macedo and Tânia Esteves.
 
 **2024** - Maria Beatriz Moreira. Otimizações de Armazenamento Distribuído para Aprendizagem Profunda (I/O Optimizations for Distributed Deep Learning Training). Co-advised with Ricardo Macedo and Cláudia Brito.
 
@@ -95,25 +114,32 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 **2017** - Ricardo Macedo. Computação Segura em Bases de Dados NoSQL (Secure Computation in NoSQL Databases), 2017, U. Minho. Co-advised with Rui Oliveira. Concluded with U. Minho's highest grade (20 values out of 20).
 
-**2015** - André Costa. Gestão de Bases de Dados Relacionais em Cloud Computing (Relational Database Management in Cloud Computing), 2015, U. Minho, Co-advised with Rui Oliveira. 
+**2015** - André Costa. Gestão de Bases de Dados Relacionais em Cloud Computing (Relational Database Management in Cloud Computing), 2015, U. Minho, Co-advised with Rui Oliveira.
 
 
 # Other Supervision Activities
 
+**2024 - current** - Filipe Pereira (MSc student). Working on new designs for I/O libraries.
 
-**2023 - current** - Bruno Gião (BSc student). Working on eBPFs. Co-supervision with Tânia Esteves.
+**2024 - current** - Paula Marques (MSc student). Working on data durability bugs and automatic fault injection catalog generation with LazyFS.
 
-**2022 - current** - Rui Oliveira (BSc student). Worked on ransomware's I/O diagnosis. Working on storage deduplication. Co-supervision with Tânia Esteves and João Marco.  
+**2023 - current** - Bruno Gião (MSc student). Working on observability of the operating system with eBPF technology. Co-supervision with Tânia Esteves.
 
-**2022 - current** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves. 
+**2023 - 2024** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves.
+
+**2022 - 2024** - Rui Pedro Oliveira (BSc student). Worked on ransomware's I/O diagnosis. Working on storage deduplication. Co-supervision with Tânia Esteves and João Marco.
 
 **2021 - 2023** - Bruno Pereira (MSc student). Worked on ransomware's I/O diagnosis. Co-supervision with Tânia Esteves and João Marco.
 
-**2020 - 2021** - Diogo Ribeiro (MSc student). Worked on storage tiering. Co-supervision with Ricardo Macedo. 
+**2021 - 2022** - Diogo Leitão (Research Assistant). Worked on new container technologies and persistent memory for distributed advanced computing infrastructures.
 
-**2017 - 2020** - Alberto Faria (MSc student). Worked on the SafeFS project. Co-supervision with Ricardo Macedo. 
+**2021** - Ricardo Pereira (MSc student). Worked on tools for storage systems evaluation.
 
-**2017 - 2020** - Daniel Cruz (Research Assistant). Worked on secure databases. 
+**2020 - 2021** - Diogo Ribeiro (MSc student). Worked on storage tiering. Co-supervision with Ricardo Macedo.
+
+**2017 - 2020** - Alberto Faria (MSc student). Worked on the SafeFS project. Co-supervision with Ricardo Macedo.
+
+**2017 - 2020** - Daniel Cruz (Research Assistant). Worked on secure databases.
 
 **2020** - Emre Bener and Zeynep Akant. (Erasmus internship). Worked on the containers topic.
 
@@ -124,5 +150,3 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 **2017** - Manuel Freitas (MsC student). Worked on the DEDISbench project.
 
 **2017** - Marcos Andrade (BsC student). Worked on the SafeCloud project.
-
-

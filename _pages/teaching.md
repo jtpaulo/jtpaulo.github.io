@@ -9,6 +9,8 @@ author_profile: true
 
 # Teaching
 
+**2024/2025** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), Software Platforms class (first year of the MIEB and MEB-IM MSc courses in Biomedical Engineering, U. Minho) (responsible), Data Storage Systems class (first year of the MEI MSc course in Informatics Engineering, U. Minho) (responsible), and the Operating Systems class (second year of the LEI and LCC BSc course in Informatics Engineering, U. Minho) (responsible).
+
 **2023/2024** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), the distributed systems practical class (third year of the MIEI course in Informatics Engineering, U. Minho),  and the operating systems class (second year of the LEI and LCC (responsible) BSc course in Informatics Engineering, U. Minho).
 
 **2022/2023** - Lecturer of the Cloud Computing Services and Applications class (responsible) (first year of the MEI MSc course in Informatics Engineering, U. Minho), and the operating systems class (second year of the LEI and LCC (responsible) BSc course in Informatics Engineering, U. Minho).
@@ -26,4 +28,3 @@ author_profile: true
 **2016/2017** - Lecturer of the database administration and data center administration classes (fourth year of the MIEI course in Informatics Engineering, U. Minho), and informatics laboratories (second year of the MIEI course in Informatics Engineering, U. Minho).
 
 **2015/2016** - Lecturer of the distributed systems practical class ( third year of the MIEI course in Informatics Engineering, U. Minho).
-

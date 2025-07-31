@@ -1,0 +1,60 @@
+- name: CRIBA
+  description: CRIBA is an open-source framework that simplifies the exploration, analysis, and comparison of I/O patterns for Linux cryptographic ransomware. Work led by Tânia Esteves.
+  url: https://github.com/dsrhaslab/criba
+
+- name: DIO
+  description: DIO is a generic tool for observing and diagnosing applications storage I/O. It is designed to be used by applications developers and users to understand how applications interact with storage systems. Work led by Tânia Esteves.
+  url: https://github.com/dsrhaslab/dio
+  website: http://dio-tool.netlify.app
+
+- name: Cheferd
+  description: Cheferd is a storage manager that is able to hollistically orchestrate and manage storage resources.The current prototype follows hierarchical design, where the controllers have different responsibilities depending on their control level. Work led by Mariana Miranda.
+  url: https://github.com/dsrhaslab/cheferd
+
+- name: PADLL
+  description: PADLL is a storage middleware that enables system administrators to proactively and holistically control the rate of data and metadata workflows to achieve QoS in HPC storage systems. Work led by Ricardo Macedo.
+  url: https://github.com/dsrhaslab/padll
+
+- name: LazyFS
+  description: LazyFS is a FUSE Filesystem with its own configurable page cache which can be used to simulate failures on un-fsynced data. Work led by João Azevedo and Maria Ramos.
+  url: https://github.com/dsrhaslab/lazyfs
+
+- name: PAIO
+  description: PAIO is a framework that enables system designers to build custom-made SDS data plane stages. A data plane stage built with PAIO targets the workflows of a given user-level layer, enabling the classification and differentiation of requests and the enforcement of different storage mechanisms according to user-defined storage policies. Examples of such policies can be as simple as rate limiting greedy tenants to achieve resource fairness, to more complex ones as coordinating workflows with different priorities to ensure sustained tail latency. Work led by Ricardo Macedo.
+  url: https://github.com/dsrhaslab/paio
+
+- name: PRISMA
+  description: Prisma is a storage data plane that accelerates the training performance of Deep Learning (DL) frameworks. It implements a parallel data prefetching mechanism that reads training data in advance and stores it in an in-memory buffer to serve incoming I/O requests of DL frameworks. Work led by Cláudia Correia.
+  url: https://github.com/dsrhaslab/prisma
+
+- name: CaT
+  description: CaT is a black-box content-aware tracing and analysis framework. It analyzes distributed systems in a non-intrusive way, highlighting how their components interact with each other and how data flows through the system. Its design enables the capture of detailed information related to I/O network and disk events, such as the context of the request and the data processed by the event. With this information, CaT proposes an analysis of the event's content based on their similarity, allowing the detection of data flow patterns that are not visible when inspecting only the context of events. Work led by Tânia Esteves.
+  url: https://github.com/dsrhaslab/cat
+
+- name: PAV
+  description: Pods-as-Volumes (PaV) is a Kubernetes plugin that simplifies the implementation of storage volume provisioners by allowing all logic underlying the lifecycle and behavior of volumes to be specified as pod templates, which are then instantiated as needed to create, delete, and expose volumes to applications. PaV reduces the effort required to integrate storage systems into Kubernetes and enables the straightforward creation of storage middleware components, improving modularity and Kubernetes' ability to manage storage stacks. Work led by Alberto Faria.
+  url: https://github.com/albertofaria/pav
+
+- name: Monarch
+  description: Monarch is a framework-agnostic middleware for hierarchical storage management. This solution leverages the existing storage tiers present at modern supercomputers (e.g., compute node’s local storage, PFS) to improve DL training performance and alleviate the current I/O pressure of the shared PFS. Work led by Marco Dantas.
+  url: https://github.com/dsrhaslab/monarch
+
+- name: BDUS
+  description: BDUS is a Linux 4.0+ framework for developing block devices in user space. More specifically, it enables users to implement block device drivers as regular user-space programs written in C. Work led by Alberto Faria.
+  url: https://github.com/albertofaria/bdus
+
+- name: S2Dedup
+  description: S2Dedup is a trusted hardware-based privacy-preserving deduplication system designed to support multiple security schemes that enable different levels of performance, security guarantees and space savings. Such feature is key to ensure S2Dedup’s applicability to a wider range of applications with different requirements. The proposed solution leverages Intel Software Guard Extensions to enable cross-user privacy-preserving deduplication at third-party storage infrastructures. Work led by Mariana Miranda.
+  url: https://github.com/mmm97/S2Dedup
+
+- name: SafeFS
+  description: SafeFS is a software-defined file system based on a modular architecture featuring stackable layers that can be combined to construct a secure distributed file system. SafeFS allows users to specialize their data store to their specific needs by choosing the combination of layers that provide the best safety and performance tradeoffs. The prototype is implemented in user space using FUSE The provided layers include mechanisms based on encryption, replication, and coding. Co-led with Rogério Pontes.
+  url: https://github.com/safecloud-project/safefs
+
+- name: DEDISBench
+  description: DEDISbench is an open source micro I/O benchmark suitable for evaluating deduplication systems by generating blocks with a realistic content distribution. The benchmark also allows running tests with different load intensities and introduces a novel hotspot access pattern for I/O requests.
+  url: https://github.com/jtpaulo/dedisbench
+
+- name: DEDIS
+  description: DEDIS is a novel open source distributed post-processing deduplication system. Its main contribution is a novel optimistic asynchronous mechanism for eliminating duplicated data among virtual machines deployed on several remote hosts. This mechanism along with other optimizations allows achieving nearly native disk I/O throughput for virtual machines even when deduplication is being performed in the background. Additionally, DEDIS is fully distributed, allowing the system to scale, and is resilient to server crashes.
+  url: https://launchpad.net/holeycow/dedis-deduplication-system

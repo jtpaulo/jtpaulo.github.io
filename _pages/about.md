@@ -18,4 +18,4 @@ My current research topics include:
 
 **Databases**: Also, previous and current research work is focused on SQL and NoSQL databases and privacy/security.
 
-For more information on these topics you can check the [Distributed Storage](https://dsr-haslab.github.io) (which I am coordinating) and [Database](https://dbr-haslab.github.io) research lines at HASLab.
+For more information on these topics you can check the [Distributed Storage](https://dsr-haslab.github.io) research team webpage (which I am coordinating).

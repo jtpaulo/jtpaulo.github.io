@@ -1,0 +1,13 @@
+---
+---
+
+<div class="talk">
+    <p>
+    {{ reference }}
+    {% if entry.webaddendum %}({{ entry.webaddendum }})<br>{% endif %}
+    {% if entry.url %}<a href="{{ entry.url }}"><i class="fas fa-fw fa-link zoom"></i></a>{% endif %}
+    {% if entry.pdf %}<a href="{{ entry.pdf }}"><i class="fas fa-fw fa-file-pdf zoom"></i></a>{% endif %}
+    {% if entry.slides %}<a href="{{ entry.slides }}"><i class="fas fa-fw fa-tv zoom"></i></a>{% endif %}
+    {% if entry.git %}<a href="{{ entry.git }}"><i class="fas fa-fw fa-code zoom"></i></a>{% endif %}
+    </p>
+</div>

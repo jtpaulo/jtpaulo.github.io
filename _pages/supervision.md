@@ -7,22 +7,54 @@ author_profile: true
 
 {% include base_path %}
 
-# PhD Thesis Supervision
+# Ongoing Supervisions
 
-### Ongoing:
+### PhD
+
+**2025** - Rui Pedro Oliveira. Redesigning Storage Systems for Emergent Technologies.
+
+**2025** - Fábio Souza. Hybrid Data Processing and Storage across Cloud and HPC Environments. Co-advised with Ricardo Macedo.
+
+**2025** - Carlos Machado. Redesigning and Optimizing eBPF for Observability and Tuning of Modern Systems. Co-advised with Tânia Esteves.
 
 **2025** - Bruno Pereira. Secure and Resilient Storage System Against Ransomware. Co-advised with Tânia Esteves.
 
 **2024** - José Pedro Peixoto. Software-Managed Resource Disaggregation for Large-Scale HPC Infrastructures. Co-advised with Ricardo Macedo.
 
-**2024** - Maria Ramos. Assessing the fault tolerance of data-centric applications. Co-advised with Tânia Esteves.
-
 **2024** - Ruben Adão. Heterogeneous Storage Systems for Modern Data Centers. Co-advised with Ricardo Macedo and Oana Balmau.
 
 **2020** - Mariana Miranda. Distributed and Dependable SDS Control Plane for HPC. Co-advised with José Pereira.
 
+### MSc
 
-### Concluded:
+**2025** - Paula Marques. Automating Storage Fault Injection. Co-advised with Tânia Esteves.
+
+**2025** - Filipe Pereira. Modular and Flexible I/O Library.
+
+**2025** - Diogo Marques. Avaliação Realista de Sistemas de Deduplicação e Compressão de Dados (Realistic Evaluation of Storage Deduplication and Compression Systems).
+
+**2025** - Nuno Matos. Adaptable I/O library for Medical Imaging Workloads. Co-advised with Cláudia Brito.
+
+**2025** - Manuel Carvalho. I/O optimizations for Medical Imaging Workloads. Co-advised with Cláudia Brito.
+
+**2024** - Gonçalo Sousa. Fault-Tolerant Storage Solutions for AI Training in HPC. Co-advised with Cláudia Brito.
+
+**2024** - André Lucena Ferreira. Storage Optimizations for large-scale AI training in HPC. Co-advised with Cláudia Brito.
+
+**2024** - Diogo Novo. An hybrid approach to dependable distributed storage. Co-advised with Francisco Maia.
+
+**2023** - Guilherme Fernandes. Programmable and Adaptable User-level Storage Systems. Co-advised with Ricardo Macedo.
+
+### Other
+
+**2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working ons torage fault injection. Co-supervision with Tânia Esteves.
+
+**2025 - Present** - Diogo Ribeiro and Marco Ferreira (MSc students). Working on caching and modeular storage optimizations. 
+
+
+# Concluded Supervisions
+
+### PhD
 
 **2024** - Cláudia Brito. Towards a Privacy-Preserving Distributed Machine Learning Framework. Co-advised with Pedro Ferreira.
 
@@ -30,31 +62,13 @@ author_profile: true
 
 **2023** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
 
-# MSc Thesis Supervision
+### MSc
 
-### Ongoing:
+**2025** - Rui Pedro Oliveira. Efficient Deduplication for the SPDK Framework. 
 
-**2024** - Daniel Du. Automated Security Testing in CI/CD Pipelines for Infrastructure as Code (IaC). Co-advised with Tânia Esteves.
+**2025** - Carlos Machado. Bridging the Gap: A Comparison of the Design, Efficiency, and Fidelity of eBPF Libraries. Co-advised with Tânia Esteves
 
-**2024** - Ana Rita Vaz. I/O Characterization of HPC applications. Co-advised with Tânia Esteves.
-
-**2024** - Carlos Eduardo Machado. Improving the observability of complex I/O stacks. Co-advised with Tânia Esteves.
-
-**2024** - Gonçalo Sousa. Fault-Tolerant Storage Solutions for AI Training in HPC. Co-advised with Cláudia Brito.
-
-**2024** - André Lucena Ferreira. Storage Optimizations for large-scale AI training in HPC. Co-advised with Cláudia Brito.
-
-**2024** - Rui Pedro Oliveira. Efficient Deduplication for the SPDK Platform.
-
-**2024** - Diogo Novo. An hybrid approach to dependable distributed storage. Co-advised with Francisco Maia.
-
-**2024** - Gonçalo Pinto. Chaos Engineering in Large Scale Systems.
-
-**2023** - Francisco Neves. Heterogeneous storage solution for deep learning frameworks. Co-advised with Cláudia Brito.
-
-**2023** - Guilherme Fernandes. Programmable and Adaptable User-level Storage Systems. Co-advised with Ricardo Macedo.
-
-### Concluded:
+**2025** - Ana Rita Vaz. Characterizing and Predicting the I/O Patterns of HPC Applications. Co-advised with Tânia Esteves.
 
 **2025** - Mariana Amorim. Energy control system for disaggregated storage resources. Co-advised with Ricardo Macedo.
 
@@ -116,14 +130,17 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 **2015** - André Costa. Gestão de Bases de Dados Relacionais em Cloud Computing (Relational Database Management in Cloud Computing), 2015, U. Minho, Co-advised with Rui Oliveira.
 
+### Other
 
-# Other Supervision Activities
+**2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working ons torage fault injection. Co-supervision with Tânia Esteves.
 
-**2024 - current** - Filipe Pereira (MSc student). Working on new designs for I/O libraries.
+**2025 - Present** - Diogo Ribeiro and Marco Ferreira (MSc students). Working on caching and modeular storage optimizations.  
 
-**2024 - current** - Paula Marques (MSc student). Working on data durability bugs and automatic fault injection catalog generation with LazyFS.
+**2024 - 2025** - Filipe Pereira (MSc student). Working on new designs for I/O libraries.
 
-**2023 - current** - Bruno Gião (MSc student). Working on observability of the operating system with eBPF technology. Co-supervision with Tânia Esteves.
+**2024 - 2025** - Paula Marques (MSc student). Working on data durability bugs and automatic fault injection catalog generation with LazyFS.
+
+**2023 - 2025** - Bruno Gião (MSc student). Working on observability of the operating system with eBPF technology. Co-supervision with Tânia Esteves.
 
 **2023 - 2024** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves.
 

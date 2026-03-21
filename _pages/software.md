@@ -1,21 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /portfolio/
+permalink: /software/
 author_profile: true
 ---
 
 {% include base_path %}
-
-# Projects
-
-
-{% for project in site.data.projects %}
-<h3><span><a href="{{ project.url }}">{{ project.name }}</a></span></h3>
-<strong>{{ project.dates }}</strong>: {{ project.description }}
-{% endfor %}
-
-<hr>
 
 # Software
 

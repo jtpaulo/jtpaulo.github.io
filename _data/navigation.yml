@@ -16,11 +16,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Service"
     url: /service/
-    
-  - title: "Projects and Software"
-    url: /portfolio/
+
+  - title: "Software"
+    url: /software/
         
   - title: "News"
     url: /year-archive/

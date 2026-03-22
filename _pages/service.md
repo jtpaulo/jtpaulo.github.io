@@ -25,70 +25,38 @@ author_profile: true
 
 # Conferences/Workshops (TPC)
 
-**2025** - ACM/IFIP International Middleware (Middleware’25)
+**2026** - ACM/IFIP International Middleware Conference (Middleware’26), IEEE International Conference on Cloud Computing (IEEE CLOUD'26).
 
-**2025** - International Parallel Data Systems Workshop (PDSW'25)
+**2025** - ACM/IFIP International Middleware Conference (Middleware’25), International Parallel Data Systems Workshop (PDSW'25), IEEE International Conference on Cloud Computing (IEEE CLOUD'25), Inforum - Track de Segurança dos Sistemas de Computadores e das Comunicações (SSCC'25).
 
-**2025** - IEEE International Conference on Cloud Computing (IEEE CLOUD'25)
+**2024** - ACM/IFIP International Middleware Conference (Middleware'24), International Parallel Data Systems Workshop (PDSW'24)
 
-**2025** - Inforum - Track de Segurança dos Sistemas de Computadores e das Comunicações (SSCC'25)
+**2023** - ACM/IFIP International Middleware Conference - Demos, Posters and Doctoral Symposium (Middleware'23), Brazilian Symposium on Computing Systems Engineering (SBESC’23), International Symposium on Reliable Distributed Systems (SRDS’23), IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid'23).
 
-**2024** - ACM/IFIP International Middleware (Middleware'24)
+**2022** - International Symposium on Reliable Distributed Systems (SRDS’22), Brazilian Symposium on Computing Systems Engineering (SBESC’22).
 
-**2024** - International Parallel Data Systems Workshop (PDSW'24)
+**2021** - International Symposium on Reliable Distributed Systems (SRDS’20), Brazilian Symposium on Computing Systems Engineering (SBESC’21). 
 
-**2023** - ACM/IFIP International Middleware - Demos, Posters and Doctoral Symposium (Middleware'23)
+**2020** - International Systems and Storage Conference (SYSTOR’20), ACM Workshop on Hot Topics in Storage and File Systems (HotStorage’20), Brazilian Symposium on Computing Systems Engineering (SBESC’20).
 
-**2023** - Brazilian Symposium on Computing Systems Engineering (SBESC’23).
+**2019** - International Symposium on Reliable Distributed Systems (SRDS’19), Conference on Distributed Applications and Interoperable Systems (DAIS’19), Brazilian Symposium on Computing Systems Engineering (SBESC’19).
 
-**2023** - International Symposium on Reliable Distributed Systems (SRDS’23).
-
-**2023** - IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid'23).
-
-**2022** - International Symposium on Reliable Distributed Systems (SRDS’22).
-
-**2022** - Brazilian Symposium on Computing Systems Engineering (SBESC’22).
-
-**2021** - Brazilian Symposium on Computing Systems Engineering (SBESC’21).
-
-**2020** - International Symposium on Reliable Distributed Systems (SRDS’20).
-
-**2020** - International Systems and Storage Conference (SYSTOR’20).
-
-**2020** - ACM Workshop on Hot Topics in Storage and File Systems (HotStorage’20).
-
-**2020** - Brazilian Symposium on Computing Systems Engineering (SBESC’20).
-
-**2019** - International Symposium on Reliable Distributed Systems (SRDS’19).
-
-**2019** - Conference on Distributed Applications and Interoperable Systems (DAIS’19).
-
-**2019** - Brazilian Symposium on Computing Systems Engineering (SBESC’19).
-
-**2016** - XVII Workshop de Testes e Tolerância a Falhas.
-
-**2016** - International Workshop on Virtualization Technologies.
+**2016** - XVII Workshop de Testes e Tolerância a Falhas, International Workshop on Virtualization Technologies.
 
 # Journals (reviewer)
 
-**2024** - ACM Transactions on Storage
+**2025** - ACM Transactions on Architecture and Code Optimization.
 
-**2024** - IEEE Transactions on Dependable and Secure Computing.
+**2024** - ACM Transactions on Storage, IEEE Transactions on Dependable and Secure Computing.
 
 **2023** - ACM Transactions on Storage.
 
-**2021** - Springer Algorithmica Journal.
+**2022** - Springer Algorithmica Journal.
 
-**2021** - IEEE Transactions on Dependable and Secure Computing.
+**2021** - Springer Algorithmica Journal, IEEE Transactions on Dependable and Secure Computing.
 
-**2018** - Journal of Network and Computer Applications.
+**2018** - Journal of Network and Computer Applications, IEEE Transactions on Computers Journal.
 
-**2018** - IEEE Transactions on Computers Journal.
-
-**2017** - Future Generation Computer Systems.
-
-**2017** - Journal of Network and Computer Applications.
-
-**2017** - ACM Transactions on Storage Journal.
+**2017** - ACM Transactions on Storage, Future Generation Computer Systems, Journal of Network and Computer Applications.   
 
 **2016** - IEEE Transactions on Parallel and Distributed Systems.

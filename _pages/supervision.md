@@ -47,9 +47,9 @@ author_profile: true
 
 ### Other
 
-**2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working ons torage fault injection. Co-supervision with Tânia Esteves.
+**2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working on storage fault injection. Co-supervision with Tânia Esteves.
 
-**2025 - Present** - Diogo Ribeiro and Marco Ferreira (MSc students). Working on caching and modeular storage optimizations. 
+**2025 - Present** - Diogo Ribeiro and Marco Ferreira (MSc students). Working on caching and modular storage optimizations. 
 
 
 # Concluded Supervisions
@@ -132,17 +132,13 @@ using Cryptographic Techniques and Trusted Hardware, 2019, U. Minho. Co-advised 
 
 ### Other
 
-**2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working ons torage fault injection. Co-supervision with Tânia Esteves.
+**2024 - 2025** - Filipe Pereira (MSc student). Worked on new designs for I/O libraries.
 
-**2025 - Present** - Diogo Ribeiro and Marco Ferreira (MSc students). Working on caching and modeular storage optimizations.  
+**2024 - 2025** - Paula Marques (MSc student). Worked on data durability bugs and automatic fault injection catalog generation with LazyFS.
 
-**2024 - 2025** - Filipe Pereira (MSc student). Working on new designs for I/O libraries.
+**2023 - 2025** - Bruno Gião (MSc student). Worked on observability of the operating system with eBPF technology. Co-supervision with Tânia Esteves.
 
-**2024 - 2025** - Paula Marques (MSc student). Working on data durability bugs and automatic fault injection catalog generation with LazyFS.
-
-**2023 - 2025** - Bruno Gião (MSc student). Working on observability of the operating system with eBPF technology. Co-supervision with Tânia Esteves.
-
-**2023 - 2024** - Diogo Costa (BSc student). Working on I/O diagnosis. Co-supervision with Tânia Esteves.
+**2023 - 2024** - Diogo Costa (BSc student). Worked on I/O diagnosis. Co-supervision with Tânia Esteves.
 
 **2022 - 2024** - Rui Pedro Oliveira (BSc student). Worked on ransomware's I/O diagnosis. Working on storage deduplication. Co-supervision with Tânia Esteves and João Marco.
 

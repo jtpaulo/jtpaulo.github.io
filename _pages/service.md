@@ -25,9 +25,9 @@ author_profile: true
 
 # Conferences/Workshops (TPC)
 
-**2026** - ACM/IFIP International Middleware Conference (Middleware’26), IEEE International Conference on Cloud Computing (IEEE CLOUD'26).
+**2026** - ACM/IFIP International Middleware Conference (Middleware’26), IEEE International Conference on Cloud Computing (IEEE CLOUD'26). International Symposium on Reliable Distributed Systems (SRDS’26). International Conference on Scalable Scientific Data Management (SSDBM'26). 2026.
 
-**2025** - ACM/IFIP International Middleware Conference (Middleware’25), International Parallel Data Systems Workshop (PDSW'25), IEEE International Conference on Cloud Computing (IEEE CLOUD'25), Inforum - Track de Segurança dos Sistemas de Computadores e das Comunicações (SSCC'25).
+**2025** - ACM/IFIP International Middleware Conference (Middleware’25), International Parallel Data Systems Workshop (PDSW'25), IEEE International Conference on Cloud Computing (IEEE CLOUD'25), Inforum - Track de Segurança dos Sistemas de Computadores e das Comunicações (SSCC'25). International Symposium on Reliable Distributed Systems (SRDS’25).
 
 **2024** - ACM/IFIP International Middleware Conference (Middleware'24), International Parallel Data Systems Workshop (PDSW'24)
 

@@ -6,7 +6,7 @@
   reference: 15032 (NORTE2030-FEDER-00868400)
   partners:
     - name: INESC TEC
-  website: 
+  website: https://inoculum-project.github.io
   description: "The project aims to research novel storage solutions for ensuring data resilience and quick recovery against ransomware attacks."
 
 - acronym: "Rescueware"

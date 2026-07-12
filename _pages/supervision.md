@@ -11,6 +11,10 @@ author_profile: true
 
 ### PhD
 
+**2026** - Gonçalo Sousa. Towards a transparent and configurable framework for efficient AI training and automatic system configuration. Co-advised with Cláudia Brito.
+
+**2026** - André Lucena Ferreira. Improving Quality-of-Service and Performance for HPC Storage of Exascale Supercomputers. Co-advised with Ricardo Macedo.
+
 **2025** - Rui Pedro Oliveira. Redesigning Storage Systems for Emergent Technologies.
 
 **2025** - Fábio Souza. Hybrid Data Processing and Storage across Cloud and HPC Environments. Co-advised with Ricardo Macedo.
@@ -37,14 +41,6 @@ author_profile: true
 
 **2025** - Manuel Carvalho. I/O optimizations for Medical Imaging Workloads. Co-advised with Cláudia Brito.
 
-**2024** - Gonçalo Sousa. Fault-Tolerant Storage Solutions for AI Training in HPC. Co-advised with Cláudia Brito.
-
-**2024** - André Lucena Ferreira. Storage Optimizations for large-scale AI training in HPC. Co-advised with Cláudia Brito.
-
-**2024** - Diogo Novo. An hybrid approach to dependable distributed storage. Co-advised with Francisco Maia.
-
-**2023** - Guilherme Fernandes. Programmable and Adaptable User-level Storage Systems. Co-advised with Ricardo Macedo.
-
 ### Other
 
 **2025 - Present** - Afonso Martins and Nuno Fernandes (BSc students). Working on storage fault injection. Co-supervision with Tânia Esteves.
@@ -63,6 +59,11 @@ author_profile: true
 **2023** - Ricardo Macedo. User-level Software-Defined Storage Data Planes. Co-advised with José Pereira.
 
 ### MSc
+
+**2026** - Gonçalo Sousa. Fault-Tolerant Storage Solutions for AI Training in HPC. Co-advised with Cláudia Brito.
+
+**2026** - André Lucena Ferreira. Storage Optimizations for large-scale AI training in HPC. Co-advised with Cláudia Brito.
+
 
 **2025** - Rui Pedro Oliveira. Efficient Deduplication for the SPDK Framework. 
 
